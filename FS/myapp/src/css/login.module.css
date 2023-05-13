@@ -1,0 +1,27 @@
+.root {
+  overflow: hidden;
+}
+
+.bg {
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg img {
+  width: 60px;
+  height: 60px;
+}
+
+.root :global(.adm-button) {
+  font-size: 16px;
+  margin: 75px auto;
+  border-radius: 3px;
+  text-align: center;
+  background-color: #ff5f16;
+  height: 44px;
+  color: #fff;
+  border: none;
+  width: 90%;
+}

@@ -1,0 +1,39 @@
+.city {
+}
+
+.header {
+  display: flex;
+  height: 44px;
+  line-height: 44px;
+  background-color: #fff;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+
+.hotCity {
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.hotCity p {
+  color: #797d82;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.hotCity ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.hotCity ul li {
+  width: 30%;
+  margin: 0 3% 3% 0;
+  text-align: center;
+  height: 30px;
+  line-height: 30px;
+  background: #f4f4f4;
+  border-radius: 3px;
+  color: #191a1b;
+  font-size: 14px;
+}

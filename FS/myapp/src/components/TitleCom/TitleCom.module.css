@@ -1,0 +1,18 @@
+.header_title {
+  display: flex;
+  padding: 0 15px;
+  height: 44px;
+  line-height: 44px;
+}
+
+.cityLeft {
+  display: flex;
+  width: 18%;
+  font-size: 14px;
+}
+
+.cityRight {
+  text-align: center;
+  width: calc(100% - 18%);
+  font-size: 16px;
+}

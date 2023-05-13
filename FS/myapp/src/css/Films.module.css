@@ -1,0 +1,27 @@
+.films {
+  width: 100%;
+  height: calc(100% - 50px);
+}
+
+.header_fix {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #fff;
+  z-index: 999;
+}
+
+.tabList {
+  margin-bottom: 3px !important;
+  height: 50px;
+  line-height: 50px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid rgba(0, 0, 0, 0);
+}
+
+.active {
+  color: #ff5f16;
+  border-bottom: 1px solid #ff5f16;
+}

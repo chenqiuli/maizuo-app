@@ -1,0 +1,64 @@
+.root {
+  padding: 15px;
+  box-sizing: border-box;
+  height: 100vh;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: white;
+  height: 50px;
+  border-bottom: 1px solid #ededed;
+  line-height: 50px;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+
+.main {
+  height: calc(100% - 50px);
+}
+
+.nearArea p {
+  margin: 18px 0;
+  color: #bdc0c5;
+  font-size: 12px;
+  line-height: 13px;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.nearArea ul li {
+  background-color: hsla(0, 0%, 95.7%, 0.6);
+  font-size: 12px;
+  margin: 0 12px 8px 0;
+  box-sizing: border-box;
+  border-radius: 3px;
+  text-align: center;
+  padding: 10px;
+  color: #191a1b;
+}
+
+.nodata {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: calc(100vh - 50px);
+}
+
+.nodata img {
+  width: 90px;
+  height: 90px;
+}
+
+.nodata p {
+  color: #bdc0c5;
+  font-size: 14px;
+  text-align: center;
+}

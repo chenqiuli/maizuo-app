@@ -1,0 +1,17 @@
+.root {
+  background: #f4f4f4;
+  height: 100vh;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  height: 49px;
+  line-height: 49px;
+  color: #ff5f16;
+  background: #fff;
+  font-size: 16px;
+}

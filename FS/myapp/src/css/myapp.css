@@ -1,0 +1,7 @@
+.myapp {
+  /* height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* background: #bdc0c5; */
+}

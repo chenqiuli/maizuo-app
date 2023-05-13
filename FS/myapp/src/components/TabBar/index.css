@@ -1,0 +1,37 @@
+.tablist {
+  display: flex;
+  text-align: center;
+  height: 50px;
+  cursor: pointer;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  width: 100%;
+}
+
+.tablist > div {
+  flex: 1;
+  margin: 4px;
+}
+
+.tablist img {
+  width: 20px;
+  height: 20px;
+  margin-bottom: 4px;
+}
+
+.tablist p {
+  color: #797d82;
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.active {
+  color: #ff5f16;
+  border-bottom: unset !important;
+}
+
+.active p {
+  color: inherit;
+}

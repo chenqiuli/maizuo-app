@@ -1,0 +1,76 @@
+.filmItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 15px 15px 15px 0;
+  box-sizing: border-box;
+}
+
+.content {
+  flex: 8;
+  width: calc(100% - 140px);
+}
+
+.content > p {
+  margin-bottom: 2px;
+}
+
+.filmItem img {
+  width: 80px;
+  height: 100px;
+  object-fit: contain;
+  margin-right: 4px;
+}
+
+.name {
+  color: #191a1b;
+  font-size: 16px;
+  margin-right: 4px;
+}
+
+.filmType {
+  display: inline-block;
+  width: 24px;
+  height: 14px;
+  background-color: #d2d6dc;
+  font-size: 10px;
+  color: #fff;
+  text-align: center;
+  line-height: 10px;
+}
+
+.other {
+  color: #797d82;
+  font-size: 12px;
+}
+
+.grade {
+  color: #ffb232;
+  font-size: 12px;
+  margin-left: 4px;
+}
+
+.actors {
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.buy {
+  width: 50px;
+  height: 25px;
+  border: 1px solid #ff5f16;
+  color: #ff5f16;
+  line-height: 25px;
+  text-align: center;
+}
+
+:global(.adm-list-item-content) {
+  width: 100% !important;
+}
+
+:global(.adm-list-item-content-main) {
+  width: calc(100% - 150px) !important;
+}
