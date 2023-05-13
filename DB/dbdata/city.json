@@ -1,0 +1,6 @@
+[
+  { "cityId": 110100, "name": "北京", "pinyin": "beijing", "isHot": 1 },
+  { "cityId": 310100, "name": "上海", "pinyin": "shanghai", "isHot": 1 },
+  { "cityId": 440100, "name": "广州", "pinyin": "guangzhou", "isHot": 1 },
+  { "cityId": 440300, "name": "深圳", "pinyin": "shenzhen", "isHot": 1 }
+]

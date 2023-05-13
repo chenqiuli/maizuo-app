@@ -1,0 +1,2452 @@
+[
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6109,
+    "name": "长空之王",
+    "poster": "https://pic.maizuo.com/usr/movie/aa3de97be3fd0a54915684d2750d3773.jpg",
+    "actors": [
+      {
+        "name": "刘晓世",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/cdc59a8e1527bfe29749bc694ffc64ef.png"
+      },
+      {
+        "name": "王一博",
+        "role": "雷宇",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/fd239dabe7f2045116bff76b8be42e91.jpg"
+      },
+      {
+        "name": "胡军",
+        "role": "张挺",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e51e34266a792e5f263245b343aacf50.jpg"
+      },
+      {
+        "name": "周冬雨",
+        "role": "沈天然",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/6fd569e16306588d15e0f3898ff3be96.jpg"
+      },
+      {
+        "name": "于适",
+        "role": "邓放",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/a05e6c02e6f5df195369793ba45a82d1.jpg"
+      }
+    ],
+    "director": "刘晓世",
+    "category": "剧情",
+    "synopsis": "雷宇（王一博饰）等优秀飞行员经过严苛选拔，正式成为了我国新一代试飞员——一款战斗机的正式列装，背后不仅有无数科研人员的努力，也需要试飞员们一次次对飞机的安全边界和极限状态进行测试。他们将在队长张挺（胡军饰）的带领下，参与到最新式、最尖端战斗机的试飞工作，在不断挑战战机和自我极限的过程中，一个个危机接踵而来……",
+    "filmType": { "name": "4D", "value": 13 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1682640000,
+    "timeType": 3,
+    "runtime": 127,
+    "item": { "name": "4D", "type": 13 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6281,
+    "name": "灌篮高手",
+    "poster": "https://pic.maizuo.com/usr/movie/8477c92681e64ca86bf04cbf2c9d6453.jpg",
+    "actors": [
+      {
+        "name": "井上雄彦",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/40864a8db58a48e4dbc72ecdb56cf2f5.jpg"
+      },
+      {
+        "name": "宫城良田",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/8d68c10d3b71e470f4981998e7faba9c.jpg"
+      },
+      {
+        "name": "三井寿",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/1b427ccbda4d2851f341d7bfe42a771e.jpg"
+      },
+      {
+        "name": "流川枫",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5bd86d92043c5da6597b9466990d6eca.jpg"
+      },
+      {
+        "name": "樱木花道",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/c5f3654be48e511fdb754c9657a68134.jpg"
+      }
+    ],
+    "director": "井上雄彦",
+    "category": "动画|青春|热血",
+    "synopsis": "「The First Slam Dunk」是《灌篮高手》首部大电影，也是最后一部！弥补青春遗憾的机会只此一次！宫城良田、三井寿、流川枫、樱木花道和赤木刚宪终于站在全国大赛的赛场，代表湘北高中与日本最强球队山王工业展开激烈对决。面对强大的对手，湘北五人组没有退缩，在安西教练的指导下，他们抱着破釜沉舟的决心热血奋战，究竟湘北能否取得比赛的最终胜利？承载好几代人热血梦想的全国大赛即将开赛，巅峰之战，就此一决！27年的等待即将划上完美句点，是时候跟自己的青春道别了！",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "日本",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1681948800,
+    "timeType": 3,
+    "runtime": 124,
+    "grade": "7.1",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6285,
+    "name": "人生路不熟",
+    "poster": "https://pic.maizuo.com/usr/movie/340a70a052cb16b3451d6bf4db8c61e1.jpg",
+    "actors": [
+      {
+        "name": "易小星",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/6cbf36fe82cdb70ab3d91ce9705c4d59.jpg"
+      },
+      {
+        "name": "乔杉",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/9e66d564ede175a20ea38e86ee9bdb61.jpg"
+      },
+      {
+        "name": "范丞丞",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/9b245d1be159af72fc1ae29c9ae5869d.jpg"
+      },
+      {
+        "name": "马丽",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/f4e271abe4b44870a005f9b737627977.png"
+      },
+      {
+        "name": "张婧仪",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5ca8965f3e43b90c1e0ca016e92702ce.jpg"
+      }
+    ],
+    "director": "易小星",
+    "category": "喜剧|剧情",
+    "synopsis": "超爆笑五一档唯一喜剧片！超强势喜剧阵容笑料频出！乔杉、范丞丞、马丽、张婧仪、常远、田雨、尹正笑闹囧途！车队大佬周东海（乔杉 饰）和老婆霍梅梅（马丽 饰）阴差阳错地与女儿周微雨（张婧仪 饰）及女儿的男朋友万一帆（范丞丞 饰）同行自驾，踏上人生路不熟的探亲之旅，周东海决定借此机会给准女婿来一场全方位无死角的考察，万一帆也用生命演绎了什么叫做教科书级翻车。一路上先后遭遇周东海死对头“添堵专业户”贾主任（田雨 饰）的房车事故、微雨“青梅竹马”光子(常远 饰)的“野鸡”山庄醉酒闹剧、捉拿公路贼团“油耗子”的围堵大战，鸡飞狗跳的探亲之旅窘态百出，爆笑不断！",
+    "filmType": { "name": "4D", "value": 13 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1682640000,
+    "timeType": 3,
+    "runtime": 100,
+    "item": { "name": "4D", "type": 13 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6291,
+    "name": "这么多年",
+    "poster": "https://pic.maizuo.com/usr/movie/d66fc56891ac8af1dc04682d68172009.jpg",
+    "actors": [
+      {
+        "name": "季竹青",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/366b851ae1d5fd75c0d96d224712ebde.jpg"
+      },
+      {
+        "name": "张新成",
+        "role": "李燃",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/0c9ba62b2bc8eca630971a32b2f33f41.jpg"
+      },
+      {
+        "name": "孙千",
+        "role": "陈见夏",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/87b3aa55784d93552de4d386d8f87885.jpg"
+      },
+      {
+        "name": "章若楠",
+        "role": "凌翔茜",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/98e1f0c6bcf9076de5594b77e688db4f.jpg"
+      },
+      {
+        "name": "刘丹",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3ffc2faa4cc38848272c895b5c844a35.jpg"
+      }
+    ],
+    "director": "季竹青",
+    "category": "爱情|青春|家庭",
+    "synopsis": "你想象过和前任久别重逢的场景吗？你会抱紧，还是逃离？从小生活在重男轻女环境中的女孩陈见夏（孙千 饰），在振华中学遇见了叛逆却善良的浑小子李燃（张新成 饰），他成为陈见夏生活里的唯一光亮。他们彼此救赎，却又遗憾分开。多年后，重逢的那刻才明白，以为是反复地爱上你，原来是，我一直没有停止过爱你。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1682640000,
+    "timeType": 3,
+    "runtime": 116,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6262,
+    "name": "超级马力欧兄弟大电影",
+    "poster": "https://pic.maizuo.com/usr/movie/57a4767be3e0236e68441e21eee26578.jpg",
+    "actors": [
+      {
+        "name": "亚伦·霍瓦斯",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/b29dc9d870b6e44de1669a389986317b.jpg"
+      },
+      {
+        "name": "迈克尔·杰勒尼克",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/1162bd61ee95fa7940f4ec75b45639bf.jpg"
+      },
+      {
+        "name": "克里斯·帕拉特",
+        "role": "马力欧 Mario",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5521ae12a1ac47954579ec0a330d64e5.jpg"
+      },
+      {
+        "name": "安雅·泰勒-乔伊",
+        "role": "碧姬公主 Princess Peach",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/123cf5d25e994b1010538df91fd01ef2.jpg"
+      },
+      {
+        "name": "查理·戴",
+        "role": "路易吉 Luigi",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/ec956816d48142ce821deaa28ee538f2.jpg"
+      }
+    ],
+    "director": "亚伦·霍瓦斯|迈克尔·杰勒尼克",
+    "category": "动作|喜剧",
+    "synopsis": "影片改编自任天堂经典游戏。企鹅冰雪王国遭到入侵能否逆袭？马力欧和他的兄弟路易吉如何拯救世界？童年经典大银幕重启，精彩冒险即将上演。",
+    "filmType": { "name": "3D", "value": 2 },
+    "nation": "美国",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680652800,
+    "timeType": 3,
+    "runtime": 92,
+    "grade": "7.9",
+    "item": { "name": "3D", "type": 2 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6123,
+    "name": "检察风云",
+    "poster": "https://pic.maizuo.com/usr/movie/f884d43664bbce465d9d687096dfa91c.jpg",
+    "actors": [
+      {
+        "name": "麦兆辉",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/fc6d94e519b58fa37c5bd7cb5cd990c0.jpg@1246w_1246h_1l_0e"
+      },
+      {
+        "name": "黄景瑜",
+        "role": "李睿",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/bdc28d8c55716f4cab90c0f4b332cef0.jpg@1246w_1246h_1l_0e"
+      },
+      {
+        "name": "白百何",
+        "role": "童雨辰",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/7528b14177bf3734a7095d40a8b25e02.jpg@1246w_1246h_1l_0e"
+      },
+      {
+        "name": "王丽坤",
+        "role": "夏薇",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/4dbd9cb1f079374e8bf4856d69b906a2.jpg@1246w_1246h_1l_0e"
+      },
+      {
+        "name": "王千源",
+        "role": "张有成",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/dce714879e31df5cbbf620257a8304c4.jpg@1246w_1246h_1l_0e"
+      }
+    ],
+    "director": "麦兆辉",
+    "category": "剧情|犯罪",
+    "synopsis": "中国第一部检察官视角的罪案庭审电影重磅推出！大学教授夏薇（王丽坤饰）涉嫌故意杀人，舆论发酵失控，多方压力涌来。随着检察官李睿（黄景瑜饰）和同事张有成（王千源饰）对该案进行审查，发现作恶多端的富商陈鑫（包贝尔饰）与此案密切相关，一桩深埋多年的旧案被牵出…故意杀人案、强奸案、官商勾结环环相扣，所有人都被迫卷进这场命运的漩涡。李睿与夏薇辩护律师童雨辰（白百何饰）在法庭上激烈交锋，夏薇究竟为何沉默不语？她的丈夫洪俊山（冯绍峰饰）又隐藏了什么秘密？正邪敌我难辨，无法预料的危机等待着众人…",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1651276800,
+    "timeType": 3,
+    "runtime": 100,
+    "grade": "7.1",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6287,
+    "name": "惊天救援",
+    "poster": "https://pic.maizuo.com/usr/movie/6f1b7e987e7433ba7db5370a6942d531.jpg",
+    "actors": [
+      {
+        "name": "彭顺",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/f7b1ae3866c31c63433fcb60a4ceca46.jpg"
+      },
+      {
+        "name": "杜江",
+        "role": "韩凯",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/a76f9404dd6ed4032b5fd1645c6781e4.jpg"
+      },
+      {
+        "name": "王千源",
+        "role": "赵映旗",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3e552517390f3d029ce2fa63ccf209d9.jpg"
+      },
+      {
+        "name": "佟丽娅",
+        "role": "叶歆",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/89d4bb6e9cfdb2ac41925a1aa5364fd1.jpg"
+      },
+      {
+        "name": "韩雪",
+        "role": "张虹",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/529230d0aef6d1eab6457c759d56b586.jpg"
+      }
+    ],
+    "director": "彭顺",
+    "category": "灾难|动作|剧情",
+    "synopsis": "一场突如其来的地震波及整个灌城化工园区，管道泄漏触发爆炸不断。浓烟滚滚、火光冲天，灾难迅速升级，如果任其蔓延，整座城市将被夷为平地……面对要救火又要救人的严峻考验，消防救援站一众队员第一时间奔赴重灾区，危难时刻争分夺秒，用生命守护生命。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1682640000,
+    "timeType": 3,
+    "runtime": 115,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6295,
+    "name": "倒数说爱你",
+    "poster": "https://pic.maizuo.com/usr/movie/119fa82f4cb71bebd1cfbb8453208657.jpg",
+    "actors": [
+      {
+        "name": "孙天宇",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/fae3e68a76d07ca303ae8abd8985787e.png"
+      },
+      {
+        "name": "周也",
+        "role": "韩书妍",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/87dfc931a47fd8300ae0d10de5577e46.jpg"
+      },
+      {
+        "name": "赵小棠",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/23b5079d92be3f9e31cdfd994326a330.jpg"
+      },
+      {
+        "name": "林孝谦",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/35f23de2dc6b1560b2da344c31468fcb.jpg"
+      },
+      {
+        "name": "陈飞宇",
+        "role": "谷雨轩",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/2c12e8fdf559fb94010d1dd0840100b0.jpg"
+      }
+    ],
+    "director": "林孝谦",
+    "category": "爱情|奇幻",
+    "synopsis": "最坚定的奔赴，最盛大的告白，即便时间与生死阻碍，我们依旧要爱！命中注定的相遇，让谷雨轩（陈飞宇 饰）和韩书妍（周也 饰）儿时结缘，长大后又重逢。坠入爱河后的他们本是如此幸福甜蜜，却不料突遭命运考验，在时间循环中反复经历生离死别的痛苦。当时间的齿轮又一次开始转动，双向奔赴的他们会付出什么代价来战胜时间、用爱创造奇迹？",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1682640000,
+    "timeType": 3,
+    "runtime": 101,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6269,
+    "name": "龙马精神",
+    "poster": "https://pic.maizuo.com/usr/movie/19162f471571afdbd6fbd6ad82b951e6.jpg",
+    "actors": [
+      {
+        "name": "杨子",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/fc3f14ec50f0a0208b1d5a94e2ed18aa.jpg"
+      },
+      {
+        "name": "成龙",
+        "role": "老罗",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/2154d23723c27a1589e5a6e783c31f9e.jpg"
+      },
+      {
+        "name": "刘浩存",
+        "role": "小宝",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/87ec0d6cf387eea9bf0a4346bf85fbc7.jpg"
+      },
+      {
+        "name": "郭麒麟",
+        "role": "乃华",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/36535bc235578b18345ab0d459ad00be.jpg"
+      },
+      {
+        "name": "赤兔",
+        "role": "赤兔",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/dec01271c4027d217d02d091047029cf.jpeg"
+      }
+    ],
+    "director": "杨子",
+    "category": "动作|喜剧|剧情",
+    "synopsis": "生活落魄的武行老罗（成龙 饰）有一匹爱马“赤兔”，他一直想把它培养成片场的动作明星，不料却深陷官司，只能求助多年未见的女儿小宝（刘浩存 饰）和她的律师男友乃华（郭麒麟 饰）。小宝一边帮老罗打官司，一边劝说他不要带着赤兔玩命做危险动作，老罗不顾女儿反对继续偷偷训练赤兔，同时又对准女婿乃华展开了各种考验……",
+    "filmType": { "name": "4D", "value": 13 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680825600,
+    "timeType": 3,
+    "runtime": 126,
+    "grade": "7.6",
+    "item": { "name": "4D", "type": 13 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6290,
+    "name": "新猪猪侠大电影·超级赛车",
+    "poster": "https://pic.maizuo.com/usr/movie/f979efa2a7c188f927be03c5a5d80e4d.jpg",
+    "actors": [
+      {
+        "name": "钟彧",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/696b0deaea9b68888371f3aa0cf694ae.jpg"
+      },
+      {
+        "name": "陆双",
+        "role": "猪猪侠",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/33ecf990c0229e654762efee0435b6e7.jpg"
+      },
+      {
+        "name": "陈志荣",
+        "role": "迷糊博士",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/95cea091c0235c6c77b93c1aa596e612.jpg"
+      },
+      {
+        "name": "张页川",
+        "role": "羊教授",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/0635dacb55ae8984fd292886d5ea4350.jpg"
+      },
+      {
+        "name": "吴海涛",
+        "role": "鸡哥、巫师",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/8e9ea609b6738a94a12b8ee1f7883eb0.png"
+      }
+    ],
+    "director": "钟彧",
+    "category": "动画|冒险|喜剧",
+    "synopsis": "竞速之城，一座悬浮在空中的赛车城市。正受邀出席最新赛季开幕式的超星特工猪猪侠，意外接到紧急任务：支撑悬浮的竞速之星被盗，城市即将坠毁，猪猪侠必须在72小时内找回能源。一场惊险刺激的冒险赛程，就此展开。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1682726400,
+    "timeType": 3,
+    "runtime": 85,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6231,
+    "name": "宇宙探索编辑部",
+    "poster": "https://pic.maizuo.com/usr/movie/b1f3ecf451bacf4e4d3ca244d98b4580.jpg",
+    "actors": [
+      {
+        "name": "孔大山",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/1e36b5ff37d593ecc97dd7ae8325e986.jpg"
+      },
+      {
+        "name": "杨皓宇",
+        "role": "唐志军",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/75834e57f8dcafd6133934d218c08c86.jpg"
+      },
+      {
+        "name": "艾丽娅",
+        "role": "秦彩蓉",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/d9fde94ea442c63e2328b39d04f9994b.jpg"
+      },
+      {
+        "name": "蒋奇明",
+        "role": "那日苏",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e37524642dfcee72acd82f68f6be93f5.jpg"
+      },
+      {
+        "name": "王一通",
+        "role": "孙一通",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/c7ee8c5981e7538e6ec40375bd08c8ef.jpg"
+      }
+    ],
+    "director": "孔大山",
+    "category": "科幻|喜剧",
+    "synopsis": "脑洞大开高分奇片，地球人外星人千里奔现！唐志军是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的未尽之路。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680307200,
+    "timeType": 3,
+    "runtime": 118,
+    "grade": "7.3",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6244,
+    "name": "铃芽之旅",
+    "poster": "https://pic.maizuo.com/usr/movie/3b90090620061bf349c900345cabef62.jpg",
+    "actors": [
+      {
+        "name": "新海诚",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/b248914d862b5e0e5b51eb2d07db24b7.jpg"
+      },
+      {
+        "name": "原菜乃华",
+        "role": " 岩户铃芽",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/0f327fd94eaa5e9d47e17215ed5bf5ac.jpg"
+      },
+      {
+        "name": "松村北斗",
+        "role": "宗像草太",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/021c3728c8f95318df675cbd9cc69d53.jpg"
+      },
+      {
+        "name": "深津绘里",
+        "role": "岩户环",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/47738c0f7e25ef0ace6d87dec5765f6c.jpg"
+      },
+      {
+        "name": "染谷将太",
+        "role": "冈部稔",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/ad9e5ed77d85a34096dd9a13626f2fb5.jpg"
+      }
+    ],
+    "director": "新海诚",
+    "category": "爱情|动画|奇幻",
+    "synopsis": "生活在日本九州田舍的17岁少女・铃芽遇见了为了寻找“门”而踏上旅途的青年。追随着青年的脚步，铃芽来到了山上一片废墟之地，在这里静静伫立着一扇古老的门，仿佛是坍塌中存留的唯一遗迹。铃芽仿佛被什么吸引了一般，将手伸向了那扇门…不久之后，日本各地的门开始一扇一扇地打开。据说，开着的门必须关上，否则灾祸将会从门的那一边降临于现世。星星，夕阳，拂晓，误入之境的天空，仿佛溶解了一切的时间。在神秘之门的引导下，铃芽踏上了关门的旅途。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "日本",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1679616000,
+    "timeType": 3,
+    "runtime": 122,
+    "grade": "7.6",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6258,
+    "name": "忠犬八公",
+    "poster": "https://pic.maizuo.com/usr/movie/7b8c4891b9a8d1d599a158ab49f1708a.jpeg",
+    "actors": [
+      {
+        "name": "徐昂",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/b882d4d2f85a5eda158b717b5045b8a1.jpg"
+      },
+      {
+        "name": "大黄（中华田园犬）",
+        "role": "八筒",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/91dd210d31e0de13183a56be4fce2745.jpg"
+      },
+      {
+        "name": "冯小刚",
+        "role": "陈敬修",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/8412ec8377d454f980c54149d48f9051.jpg"
+      },
+      {
+        "name": "陈冲",
+        "role": "李佳珍",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/82d9ddeff8ca35dc24be8b22f54a9702.jpg"
+      },
+      {
+        "name": "白举纲",
+        "role": "陈新桥",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/a2939a5023cdab5257a3240ea9f12d80.jpg"
+      }
+    ],
+    "director": "徐昂",
+    "category": "剧情|家庭",
+    "synopsis": "这是一只小狗感动全球数亿人的故事。八筒是一只可爱的中华田园犬，在茫茫人海中遇到了命中注定的主人陈敬修，成为了陈家的一员。随着时间的推移，曾经美好的家已经不在，但八筒仍在原地等待，它的命运同它的家人紧紧地牵绊在一起。本片改编自新藤兼人原著剧本「ハチ公物語」。",
+    "filmType": { "name": "4D", "value": 13 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680220800,
+    "timeType": 3,
+    "runtime": 125,
+    "grade": "7.6",
+    "item": { "name": "4D", "type": 13 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6174,
+    "name": "保你平安",
+    "poster": "https://pic.maizuo.com/usr/movie/34abe976a0baf62f0af6d9d41e7ef414.jpg",
+    "actors": [
+      {
+        "name": "大鹏",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/75741ac19a8019deccf3a9ba8709dc49.jpg"
+      },
+      {
+        "name": "大鹏",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/75741ac19a8019deccf3a9ba8709dc49.jpg"
+      },
+      {
+        "name": "李雪琴",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/39b92197f9ea61f1ba7f860059284fc7.jpg"
+      },
+      {
+        "name": "尹正",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/6ed7d96c8723a3272202283876622d28.jpg"
+      },
+      {
+        "name": "王迅",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/4347aebbc71d8dac53749fe63c19dc84.jpg"
+      }
+    ],
+    "director": "大鹏",
+    "category": "剧情|喜剧",
+    "synopsis": "造谣一张嘴，辟谣跑断腿。中年落魄的魏平安（大鹏 饰）已过世的客户被人造谣抹黑。为了一句承诺，魏平安踏上了漫漫查谣言之路。一路阻碍重重，也笑料频出，连他自己也深陷谣言之中。他渐渐发现“做你觉得正确的事”最令人心安……《保你平安》是大鹏导演执导的现实主义喜剧，也是第四届海南岛国际电影节闭幕影片，将于12月31日全国上映。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1678406400,
+    "timeType": 3,
+    "runtime": 112,
+    "grade": "7.3",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6298,
+    "name": "长沙夜生活",
+    "poster": "https://pic.maizuo.com/usr/movie/cf4072a237750087426ee82a53da9ce6.jpg",
+    "actors": [
+      {
+        "name": "张冀",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/93008c4bb8ff2e7594afb08f9d0c0aa8.jpg"
+      },
+      {
+        "name": "尹昉",
+        "role": "景为为",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/d46249545e5f6b6d03c9c810959bfeb9.jpg"
+      },
+      {
+        "name": "张婧仪",
+        "role": "何西西",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/c767e57634a28a0ce28d66de165b8b9e.jpg"
+      },
+      {
+        "name": "张艺兴",
+        "role": "何岸",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e97cc13ff9737a77c2bec7fd00b3fd1b.jpg"
+      },
+      {
+        "name": "苏岩",
+        "role": "丽姐",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3306b6f7c07416ca9143c39222ea1351.jpg"
+      }
+    ],
+    "director": "张冀",
+    "category": "剧情|爱情",
+    "synopsis": "故事发生在长沙的一个奇妙的夜晚。夜猫子景为为（尹昉 饰）在书店邂逅了明早将要离开故乡的何西西（张婧仪 饰），俩人相约搭伙夜游。何西西聊起同父异母的哥哥，脱口秀演员何岸（张艺兴 饰），就在今晚的演出上，何岸的父亲（罗钢 饰）出现在观众席中，俩人不欢而散。另一边，陈清智（白宇帆 饰）、梁宝琦（周思羽 饰）、老谢（吴军 饰）守护着摩天轮，他们边欣赏夜景，边感叹打工不易。夜更深了，这一晚也是网红大排档老板娘丽姐（苏岩 饰）最后一次掌勺做粉，她决定让自己的徒弟旭哥（吴昊宸 饰）接手继续经营大排档。夜晚即将过去，一群人一起坐在大排档里嗦粉，邂逅、热爱、留下、离开、和解、团圆，都发生在这座城市里，每个人都找到了深爱这里的理由。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1682640000,
+    "timeType": 3,
+    "runtime": 106,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6260,
+    "name": "名侦探柯南：贝克街的亡灵",
+    "poster": "https://pic.maizuo.com/usr/movie/54fb8e4a61320745cbb8eef5d42a47b0.jpg",
+    "actors": [
+      {
+        "name": "儿玉兼嗣",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/bb98be9cd4036dac227bf874352072c9.jpg"
+      },
+      {
+        "name": "高山南",
+        "role": "柯南 Conan Edogawa",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/ef58c1fa37cef5adc1f297f693c29938.jpg"
+      },
+      {
+        "name": "山崎和佳奈",
+        "role": "毛利兰 Ran Mohri",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e06ed1218db91f5ca9b1c8ab014d70e4.jpg"
+      },
+      {
+        "name": "山口胜平",
+        "role": "工藤新一 Shinichi Kudoh",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/71dc2711ab2417422de03bb14423760a.jpg"
+      },
+      {
+        "name": "岩居由希子",
+        "role": "吉田步美 Ayumi Yoshida",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/658a9355b7857dc133e470150e7b94c4.jpg"
+      }
+    ],
+    "director": "儿玉兼嗣",
+    "category": "动画|悬疑|冒险",
+    "synopsis": "在信息技术行业的帝王托马斯·辛德勒的基础上，开发了人工智能程序“ 诺亚方舟”的10岁天才少年弘树离奇自杀。2年后，辛德勒公司发巩雅凶表了使用了最新的虚拟现实技术的前所未有的游戏“茧”。这是可支配五感，体验就像现实中事情的虚拟体感游戏。柯南、小兰和少年侦探团一起，前往发布会。在那里也出现了与这部游戏开发有关系的新一父亲——优作的身影。然而在华丽的聚会开始之后，辛德勒手下“茧”的开发负责人——坚村被杀害了。发现誉腿桨再了坚村留下的信息的柯南，直觉感到优作负责的“茧”的舞台中隐藏着线索。少年侦探团和灰原、小兰、警视颈雅嫌签副总监的孙子·诸星等人一起，向 夏洛克·福尔摩斯和混合了真实存在的杀人犯 开膛手杰克的“古代伦敦”发起挑战。可就在游戏开始的同时，游戏被“诺亚方舟”控制了……",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "日本",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680566400,
+    "timeType": 3,
+    "runtime": 108,
+    "grade": "7.5",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6256,
+    "name": "龙与地下城：侠盗荣耀",
+    "poster": "https://pic.maizuo.com/usr/movie/7d57ba854f91335539a28238108a948d.jpg",
+    "actors": [
+      {
+        "name": "乔纳森·戈尔茨坦",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/a7c39b3af51b68ad843e7a9c932a9b76.jpg"
+      },
+      {
+        "name": "约翰·弗朗西斯·戴利",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/9f1e316b81286d0eb8ace1781dea0bfa.jpg"
+      },
+      {
+        "name": "克里斯·派恩",
+        "role": "埃德金（吟游诗人）",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5d140d51d4fd33fbe3bf87a11c76f0ee.jpg"
+      },
+      {
+        "name": "米歇尔·罗德里格兹",
+        "role": "霍尔盖（野蛮人）",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/791b3f4e26c503a6025e403837016a5f.jpg"
+      },
+      {
+        "name": "雷吉-让·佩吉",
+        "role": "亨克（圣骑士）",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/ca09bed62628b97dea94a8fdca7c7d56.jpg"
+      }
+    ],
+    "director": "乔纳森·戈尔茨坦|约翰·弗朗西斯·戴利",
+    "category": "动作|奇幻|冒险",
+    "synopsis": "震撼眼界的巨龙怪物，惊心动魄又笑料百出的征途冒险，愚人节电影院最佳拍档——奇幻动作冒险巨制《龙与地下城:侠盗荣耀》来袭！一群最能整活的侠盗小队共同制定了一场惊天盗窃计划，他们要找回遗失已久的圣物，迎战最强恶魔，赢回属于自己的荣耀！",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "美国",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680220800,
+    "timeType": 3,
+    "runtime": 134,
+    "grade": "7.4",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6251,
+    "name": "泰坦尼克号",
+    "poster": "https://pic.maizuo.com/usr/movie/f89c701db5e2eeb715b7d5b11c646a83.jpg",
+    "actors": [
+      {
+        "name": "詹姆斯·卡梅隆",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/4da6b697aabe63657edd65aa1b660a04.jpg"
+      },
+      {
+        "name": "莱昂纳多·迪卡普里奥",
+        "role": "杰克 Jack Dawson",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/9bed2756c125dd3549f7b5de25416a2a.jpg"
+      },
+      {
+        "name": "凯特·温丝莱特",
+        "role": "露丝 Rose DeWitt Bukater",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5cabaf2121bfa5bcfe0a2355d952d86d.jpg"
+      },
+      {
+        "name": "比利·赞恩",
+        "role": "卡尔 Caledon 'Cal' Hockley",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/6ae0d07a9d2a91417d29419bfcd789a7.jpg"
+      },
+      {
+        "name": "凯西·贝茨",
+        "role": "莫莉·布朗 Molly Brown",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/7c40541143b1b0c674f6cbceccb832ca.jpg"
+      }
+    ],
+    "director": "詹姆斯·卡梅隆",
+    "category": "剧情|爱情|灾难",
+    "synopsis": "1912年4月10日，承载着民众万千希望的豪华游轮泰坦尼克号鸣着震耳欲聋的汽笛，由英国南安普顿驶向了大洋彼岸的纽约。头等舱内，美丽女孩罗丝和她的母亲及未婚夫卡尔相对而坐，可是罗丝从心底反感这样虚华无实的生活。绝望之际，她结识了不名一文的青年画家杰克。杰克靠赌博赢得了下等舱的船票，他带着金丝雀一般的罗丝冲破樊笼，在底下层民众中间尽情享受人生的快乐。短短几日的相处，两人互生好感。然而横在他们中间的不仅有氏族阶层的坚固樊篱，更有一场史无前例的大灾难。罗丝和杰克那幼嫩的爱情之芽面临着生与死的严酷考验……",
+    "filmType": { "name": "3D", "value": 2 },
+    "nation": "美国",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680480000,
+    "timeType": 3,
+    "runtime": 194,
+    "grade": "7.7",
+    "item": { "name": "3D", "type": 2 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6284,
+    "name": "宇宙护卫队：风暴力量",
+    "poster": "https://pic.maizuo.com/usr/movie/1462c73e65a45778a17e201bcde39bc2.jpg",
+    "actors": [
+      {
+        "name": "刘若班",
+        "role": "配音演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/6afeabafe5fccf601c697839f4d5049a.png"
+      },
+      {
+        "name": "郑炼",
+        "role": "配音演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5e2b6a974808972a1681a1e863c686aa.jpg"
+      },
+      {
+        "name": "李靖",
+        "role": "风暴、莱利",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/69e5832e4f3660ef732199667aaf6ab0.png"
+      }
+    ],
+    "director": "刘彭",
+    "category": "动画|冒险",
+    "synopsis": "十年前，风暴的父亲和族人在和狂岚博士的战斗中失踪。如今风暴已成为宇宙护卫队的队长，并偶然间得知父亲可能和狂岚博士一同被困在异时空中。于是风暴和伙伴们通过制造时空缝隙来到异时空，并找到了消失的蓝虎族。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1682726400,
+    "timeType": 3,
+    "runtime": 94,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 1,
+    "filmId": 6268,
+    "name": "爱很美味",
+    "poster": "https://pic.maizuo.com/usr/movie/444e78a2043c350830c5adbbb49f5c28.jpg",
+    "actors": [
+      {
+        "name": "陈正道",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e25739ba490b1950bdc71fbe3382d488.jpg"
+      },
+      {
+        "name": "许肇任",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/52a26b5623dc8456ea4dcea3cdc1ea70.jpg"
+      },
+      {
+        "name": "李纯",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/6f2d9d6c63545549bb74c937b4a160c7.jpg"
+      },
+      {
+        "name": "张含韵",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/9ffd891849d978a72b8869499d769efc.jpg"
+      },
+      {
+        "name": "王菊",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/302ddd40bf8c4027157ba6ecb0f4caa0.jpg"
+      }
+    ],
+    "director": "陈正道|许肇任",
+    "category": "剧情|爱情",
+    "synopsis": "影片由2021年度口碑黑马同名剧集原班人马打造，延续剧版故事。普通女孩刘净（李纯 饰）开了一间理想中的餐厅，但不容乐观的经营现状令她心生动摇；漂亮女孩方欣（张含韵 饰）渴望在职场中证明自己并非“花瓶”，意外的怀孕却一下打乱她的节奏；强势女孩夏梦（王菊 饰）习惯了赢，还没有学会如何接受输……也许生活总有些许麻烦，但姐妹是我们坚定自己、勇敢向前的底气，哪怕永远不是“完美”的那一个，我们也是最完美的姐妹。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1681516800,
+    "timeType": 3,
+    "runtime": 121,
+    "grade": "7.9",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6275,
+    "name": "暴风",
+    "poster": "https://pic.maizuo.com/usr/movie/f424beea1acb9d7877976d82bd435291.jpg",
+    "actors": [
+      {
+        "name": "陈嘉上",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3a2060532aee59c43411033cded24b57.jpg"
+      },
+      {
+        "name": "王龙正",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/9da49a7d2aec8630d2bba37a555661da.jpg"
+      },
+      {
+        "name": "王紫璇",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/eaa442ee10f854523f6f70cc64fd2393.jpg"
+      },
+      {
+        "name": "陈伟霆",
+        "role": "陈家栋",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3406b1e450ff0deb1671e2b9a0538e49.jpg"
+      },
+      {
+        "name": "王千源",
+        "role": "王历文",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3e552517390f3d029ce2fa63ccf209d9.jpg"
+      }
+    ],
+    "director": "陈嘉上",
+    "category": "剧情|动作|悬疑",
+    "synopsis": "上世纪30年代的汕头，王历文（王千源 饰）在执行任务的过程中意外重逢昔年好友陈家栋（陈伟霆 饰），两兄弟联手调查隐秘任务，神秘人的出现打乱了原本的计划。随着调查深入，兄弟二人之间的角力日渐明显。暴风已至，漩涡中的每个人都在竭力扳回一局…",
+    "filmType": { "name": "4D", "value": 13 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1681430400,
+    "timeType": 3,
+    "runtime": 103,
+    "grade": "7.7",
+    "item": { "name": "4D", "type": 13 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6293,
+    "name": "天堂谷大冒险",
+    "poster": "https://pic.maizuo.com/usr/movie/717b1f061337db08d8999d3826cd2dc6.jpg",
+    "actors": [
+      {
+        "name": "菲丽希缇·琼斯",
+        "role": "Sorrell",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/aaa768222169907afd36f1b409012be7.jpg"
+      },
+      {
+        "name": "弗莱迪·海默",
+        "role": "Ben",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/d2c4ccfce0902e90a0ea9a7ad88c4d25.jpg"
+      },
+      {
+        "name": "托默·埃希德",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/d5b1e68a3d20d0cbbc13a88a4e7a6ef7.jpg"
+      },
+      {
+        "name": "托马斯·布罗迪-桑斯特",
+        "role": "Firedrake",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/4fa5657940db78f9604af7b1deed9bce.jpg"
+      },
+      {
+        "name": "帕特里克·斯图尔特",
+        "role": "配音演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3d8799940477377b4fa4069bceb3839f.jpg"
+      }
+    ],
+    "director": "托默·埃希德",
+    "category": "动画|冒险|合家欢",
+    "synopsis": "2023年带娃必看的冒险成长动画电影！影片讲述了年轻勇敢的银龙Firedrake、山神Sorrel、孤儿Ben，因银龙的家园无法继续居住，共同踏上去喜马拉雅山脉寻找着天堂谷——传说中龙族避风港的冒险之旅，在这段神奇的旅程中，他们遭遇了各种险境，并经历了友情危机，最终冰释前嫌收获了各自的成长。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "德国",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1682726400,
+    "timeType": 3,
+    "runtime": 92,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6289,
+    "name": "魔幻奇缘之宝石公主",
+    "poster": "https://pic.maizuo.com/usr/movie/e874587d9a67750a901fc68f649d6c25.jpg",
+    "actors": [
+      {
+        "name": "高国峰",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/046a7636f0f0796f1efc586cd5f76b53.jpg"
+      },
+      {
+        "name": "王森",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3db740a9b34b8d71f182a692b63a46a9.jpg"
+      },
+      {
+        "name": "张艺雯",
+        "role": "宝石公主",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5b445158d187b69a7ad563438abfd021.jpg"
+      },
+      {
+        "name": "吴凡",
+        "role": "赛伦斯",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/71f67df8643a1c4422d587e29cf9f167.jpg"
+      },
+      {
+        "name": "王雪沁",
+        "role": "国师",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/84356cb595f966642cf069d243342e24.jpg"
+      }
+    ],
+    "director": "高国峰|王森",
+    "category": "动画|冒险|合家欢",
+    "synopsis": "宝石公主由于眼泪可以变成宝石，因此从小便被巫婆从城堡里偷偷抱走，送给邻近的国王，被国王软禁在皇宫内。出于对外面世界的好奇以及对自由的向往，宝石公主在大盗司马森的帮助下逃出皇宫，一场奇妙的冒险就此展开，前方等待她的将会是什么呢？",
+    "filmType": { "name": "3D", "value": 2 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1682726400,
+    "timeType": 3,
+    "runtime": 81,
+    "item": { "name": "3D", "type": 2 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6270,
+    "name": "平家物语：犬王",
+    "poster": "https://pic.maizuo.com/usr/movie/55e2b1cb7a8675d9c45e7805b9b707ba.jpg",
+    "actors": [
+      {
+        "name": "汤浅政明",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/c9ebaa4c5b1945b03be6c101cb32668a.jpg"
+      },
+      {
+        "name": "Avu-chan",
+        "role": "犬王",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e623be5c9a79b5726ca266958fe1c306.jpg"
+      },
+      {
+        "name": "森山未来",
+        "role": "配音演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/7d1ab017f840f69f6e71753cdfcff514.jpg"
+      },
+      {
+        "name": "柄本佑",
+        "role": "配音演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/b9cf2cc5101e46adb41a2391b50f94d9.jpg"
+      },
+      {
+        "name": "津田健次郎",
+        "role": "配音演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/87d88c8b08cf8c1102a43a66460247fc.jpg"
+      }
+    ],
+    "director": "汤浅政明",
+    "category": "动画|音乐|奇幻",
+    "synopsis": "出生于室町京都猿乐某个剧团的异形之子犬王，他被周围的人疏远、戴着遮住面容的葫芦面具。某天，犬王遇到了因诅咒而失明的少年琵琶法师友鱼，友鱼弹着琵琶的弦，犬王则踏步而歌。一瞬间，只有两个人的呼吸、只有两人的世界就此展开。犬王享受着壮烈的命运、用强有力的舞蹈开拓出自己人生，身旁的友鱼则探求诅咒的真相、拨弄琵琶与异界共鸣。他们两人成为了在乱世中生存下来的搭档，彼此的才能都得以展现，作为独一无二的艺人使得人们狂热。而在顶点，又有某些东西在等待着他们二人···",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "日本",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680825600,
+    "timeType": 3,
+    "runtime": 98,
+    "grade": "7.7",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6237,
+    "name": "望道",
+    "poster": "https://pic.maizuo.com/usr/movie/0d5f4d946d5e7a40c5ef188def612a18.jpg",
+    "actors": [
+      {
+        "name": "侯咏",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/b97af5ee2a3070ad5e0f32cc1e354883.jpg"
+      },
+      {
+        "name": "刘烨",
+        "role": "陈望道",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/732589e7ade84bee347984c705b3cd79.jpg"
+      },
+      {
+        "name": "胡军",
+        "role": "陈独秀",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e51e34266a792e5f263245b343aacf50.jpg"
+      },
+      {
+        "name": "文咏珊",
+        "role": "蔡慕晖",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/2dfb8869c064ac74816821d93ac8ab20.jpg"
+      },
+      {
+        "name": "王锵",
+        "role": "施存统",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/6e69d916babcee6a2d5fd811a9b539b9.jpg"
+      }
+    ],
+    "director": "侯咏",
+    "category": "剧情|历史",
+    "synopsis": "从日本留学归来的陈望道接下了翻译《共产党宣言》的任务，从此改变了人生轨迹；陈独秀、俞秀松、施存统、经亨颐、戴季陶、蔡慕晖等历史人物一一出场。历经时代动荡变革，友朋或牺牲或离去，陈望道面临生死抉择的考验。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1679616000,
+    "timeType": 3,
+    "runtime": 112,
+    "grade": "7.4",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6277,
+    "name": "鳄鱼莱莱",
+    "poster": "https://pic.maizuo.com/usr/movie/2bfec8b7c1f9bbdbe0a27f90620ec235.jpg",
+    "actors": [
+      {
+        "name": "威尔·斯佩克",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/7ecba651670eea21acb3ae15daa74d95.jpg"
+      },
+      {
+        "name": "乔什·戈登",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/7edac8da2343f050da5fdf65ac4216c8.jpg"
+      },
+      {
+        "name": "哈维尔·巴登",
+        "role": "Hector P. Valenti",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5761a1c74920fb5eebfd441e156260e9.jpg"
+      },
+      {
+        "name": "吴恬敏",
+        "role": "Mrs. Primm",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/032ab113a83f8461326b320ac84cdcd3.jpg"
+      },
+      {
+        "name": "斯科特·麦克纳里",
+        "role": " Mr. Primm",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/bd7efd6067392d321cbc031e4bd2310a.jpg"
+      }
+    ],
+    "director": "威尔·斯佩克|乔什·戈登",
+    "category": "动画|喜剧|音乐",
+    "synopsis": "影片改编自风靡全球的同名绘本系列，肖恩·蒙德兹献声演唱鳄鱼莱莱。故事讲述了小男孩乔希·普里姆跟随父母举家搬进大城市的新居，和一只住在阁楼上、能舞会唱的鳄鱼成为好朋友的奇遇故事。自带欢乐属性的鳄鱼莱莱治愈了难以适应新环境的乔希，乔希也努力消除父母对莱莱的偏见。两小只开启前所未有的都市历险，历经重重欢乐闹剧，莱莱与普里姆一家最终成为了彼此的家人与伙伴。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "美国",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1681516800,
+    "timeType": 3,
+    "runtime": 107,
+    "grade": "7.9",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6272,
+    "name": "稍微想起一些",
+    "poster": "https://pic.maizuo.com/usr/movie/d69f98e7654c3c250ec4e023752fe1f6.jpg",
+    "actors": [
+      {
+        "name": "松居大悟",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/2fc16ff3e882f61e54f6ce39f8389cf2.jpg"
+      },
+      {
+        "name": "池松壮亮",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/1faefcc41fbee5113fddb07d8468e6ff.jpg"
+      },
+      {
+        "name": "伊藤沙莉",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/9123ce77e35e8809500eefbb12cec274.jpg"
+      },
+      {
+        "name": "国村隼",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/6ddcad1d90796888ce466c2a3cb81d26.jpg"
+      },
+      {
+        "name": "永濑正敏",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/dd19e594acaf6c8cd10c8e637a95f0ff.jpg"
+      }
+    ],
+    "director": "松居大悟",
+    "category": "剧情|爱情",
+    "synopsis": "本片是松居大悟完全原创的爱情电影。摇滚乐队クリープハイプ的主唱尾崎世界观的新作曲目灵感来自于吉姆·贾木许导演的《地球之夜》。而松居大悟听到这个背景后，也触发灵感，完成了这部作品。影片中池松壮亮扮演因为受伤，放弃自己舞蹈生涯的青年照生，伊藤莎莉则扮演出租车司机小叶。影片通过两人的对话，展现出新冠疫情时代的新“恋爱物语”。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "日本",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1681430400,
+    "timeType": 3,
+    "runtime": 115,
+    "grade": "7.3",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6254,
+    "name": "倍儿喜欢你",
+    "poster": "https://pic.maizuo.com/usr/movie/d1a67db7b540af3791403046994b0ee5.jpg",
+    "actors": [
+      {
+        "name": "郭大雷",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/75627f9fddeba867d1f998e7bea7b964.jpg"
+      },
+      {
+        "name": "贾冰",
+        "role": "宫保",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/9db69a519c13e7d47a784834419c9422.jpg"
+      },
+      {
+        "name": "柳岩",
+        "role": "范奎恩",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3f4844257c21b6aa594d182ecba3e4a9.jpg"
+      },
+      {
+        "name": "杨新鸣",
+        "role": "范玉舟",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/685cf8d65ccaa4b67601ea8931e6c9c3.jpg"
+      },
+      {
+        "name": "施予斐",
+        "role": "岳晓美",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5d25d8a580125fb2cbdee1d88279b4d3.jpg"
+      }
+    ],
+    "director": "郭大雷",
+    "category": "爱情|喜剧",
+    "synopsis": "爱情的仪式感从不会缺席，要相信总有人手捧鲜花为你而来。范奎恩（柳岩 饰）和宫保（贾冰 饰）从针锋相对，到一个眼神就读懂彼此。他们共品人间烟火气，在朝夕相伴中，擦出爱的火花。但生活不是童话，当热情渐熄，他们是否还会始终如一的陪伴在彼此身边？",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1681430400,
+    "timeType": 3,
+    "runtime": 99,
+    "grade": "7.4",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6265,
+    "name": "了不起的夜晚",
+    "poster": "https://pic.maizuo.com/usr/movie/be19179f585f2f2774007a6585ebac91.jpg",
+    "actors": [
+      {
+        "name": "马凯",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/135389af30babd3a7383d95ca51714a2.jpg"
+      },
+      {
+        "name": "范丞丞",
+        "role": "豹子",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/9b245d1be159af72fc1ae29c9ae5869d.jpg"
+      },
+      {
+        "name": "王子璇",
+        "role": "丽妃",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/fa98ac7dae1c0f4236b7bc7752ae3a1c.jpg"
+      },
+      {
+        "name": "蒋龙",
+        "role": "小山",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/64cc2a1c2e6d12f82125f652bef605aa.jpg"
+      },
+      {
+        "name": "蒋易",
+        "role": "猴子",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/14380b1ce244199e090b2ceed93d7c81.jpg"
+      }
+    ],
+    "director": "马凯",
+    "category": "喜剧|惊悚",
+    "synopsis": "一心想要红的短视频“达人”豹子面临公司倒闭和支付赔偿金的双重困境，合伙人狗子和猴子也提出要散伙。三兄弟因一个特殊邀约来到惊悚片剧组进行偷拍，打算干好“最后一票”。不料，他们居然拍到剧组女主角发生意外的独家画面！三兄弟随机应变继续偷拍，却没想到一连串的惊声尖笑愈演愈烈……",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680220800,
+    "timeType": 3,
+    "runtime": 108,
+    "grade": "7.8",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6273,
+    "name": "深海危机",
+    "poster": "https://pic.maizuo.com/usr/movie/3b0d9d2a6cab7f6a83bbcc8ebf84fe4e.jpg",
+    "actors": [
+      {
+        "name": "沈东",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/0f480dcba61a340037e80b7a1a9aca05.jpg"
+      },
+      {
+        "name": "吴昊宸",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/0f2e233a84fc049f930a49651504835a.jpg"
+      },
+      {
+        "name": "艾晓琪",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/0cc47791871182805800d4ae4d626737.jpg"
+      },
+      {
+        "name": "严屹宽",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/edbb7306c3d01af9bb7d5e519cb9d967.jpg"
+      },
+      {
+        "name": "屈菁菁",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3d4028ada44788acc025b3e452d7064f.jpg"
+      }
+    ],
+    "director": "沈东",
+    "category": "动作|剧情",
+    "synopsis": "电影《深海危机》讲述了核武专家斯蒂尔决定向世人公布埋藏在他内心已久的秘密时，却突然被劫持谋杀，随身携带的装有绝密资料的手提箱随之丢失，举世为之震惊。 不久，在中国领海外，出现了一艘神秘舰船……一群不明身份的外籍人士，准备打捞冷战时期某大国遗留在深海海底的核弹并实施恐怖袭击。恐怖分子的目标并非某个大都市，而是意欲在活跃的环太平洋地震带引爆核弹，引起超级地震及巨大海啸，沿海数十个国家将遭遇灭顶之灾。千钧一发之际，在中国国家反恐中心和军方全力配合下，一对欢喜冤家携手，成功挫败恐怖分子阴谋，挽救了上千万人的生命，夫妻情感也得以升华……",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1681516800,
+    "timeType": 3,
+    "runtime": 94,
+    "grade": "7.3",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6271,
+    "name": "燃烧的巴黎圣母院",
+    "poster": "https://pic.maizuo.com/usr/movie/4d468c1e36f0dcd4d8b3fcc6c1f9f1b8.jpg",
+    "actors": [
+      {
+        "name": "让-雅克·阿诺",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/51065ffb03fbb80c2bd22b3cde27718a.jpg"
+      },
+      {
+        "name": "塞缪尔·拉巴特",
+        "role": "Général Gontier",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/9e6e80919ff1712fba9b22fb933d9dd7.jpg"
+      },
+      {
+        "name": "让-保罗·博德斯",
+        "role": "Général Gallet",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/13adc218004832b7ab12ca47cb62040d.jpeg"
+      },
+      {
+        "name": "Mickaël Chirinian",
+        "role": "Laurent Prades, le régisseur général de Notre-Dame",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/da63a5f1bbdb9d3abe2bd7ef335ff3ce.png"
+      },
+      {
+        "name": "热雷米·拉厄尔特",
+        "role": "Adjudant chef Joël",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/baa78dc603cd1bd7bc8b980e0952ca60.jpg"
+      }
+    ],
+    "director": "让-雅克·阿诺",
+    "category": "剧情",
+    "synopsis": "一场历史性的重大灾难悄然而生，世界最具代表性的建筑巴黎圣母院危在旦夕。16个小时的烈火焚烧，1200摄氏度的高温，融化的铅水伴随着浓浓毒烟，阻碍着消防人员前进的道路，一切似乎已无力回天。如此情形下，价值连城的荆棘皇冠，856年来人类文明的浓缩瑰宝又该何去何从？艺术和生命又到底孰轻孰重？",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "法国,意大利",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680825600,
+    "timeType": 3,
+    "runtime": 110,
+    "grade": "7.6",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6118,
+    "name": "流浪地球2",
+    "poster": "https://pic.maizuo.com/usr/movie/228a4e54fecfdb1c843f83ed28f947d6.jpg",
+    "actors": [
+      {
+        "name": "郭帆",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/49d7bb00e0a2a9199441db5354b65f28.jpg"
+      },
+      {
+        "name": "吴京",
+        "role": "刘培强",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/80f93f06a5fcbbbf0a9085125b2a93b2.jpg"
+      },
+      {
+        "name": "刘德华",
+        "role": "图恒宇",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/a5fc45490b819cda18057b127816b7a3.jpg"
+      },
+      {
+        "name": "李雪健",
+        "role": "周喆直",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/6c377dc94628b41e23c924da29cc7ced.jpg"
+      },
+      {
+        "name": "沙溢",
+        "role": "张鹏",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3900b570ca1c916ad7be53cdd05089b0.jpg"
+      }
+    ],
+    "director": "郭帆",
+    "category": "科幻|冒险|灾难",
+    "synopsis": "太阳即将毁灭，人类在地球表面建造出巨大的推进器，寻找新的家园，然而宇宙之路危机四伏，为了拯救地球，流浪地球时代的年轻人再次挺身而出，展开争分夺秒的生死之战...",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1674345600,
+    "timeType": 3,
+    "runtime": 173,
+    "grade": "7.1",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6242,
+    "name": "怨偶铠甲",
+    "poster": "https://pic.maizuo.com/usr/movie/6e40c750106fd3cceefa9dfed2d52ba8.jpg",
+    "actors": [
+      {
+        "name": "陈京",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/f3bc42caf7fbfeaa67e999e039935b2f.jpg"
+      },
+      {
+        "name": "陈美行",
+        "role": "罗薇",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/95ef39e1f41878c4ae8bac060c8b6253.jpg"
+      },
+      {
+        "name": "沁坤",
+        "role": "沈楠",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/c88e50cf6728eed572259ce55ab64a38.jpg"
+      },
+      {
+        "name": "俞艾辰",
+        "role": "千岛惠子",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/05bacbb36ebe9c97ec129e0e39e24ead.jpg"
+      },
+      {
+        "name": "孙艺真",
+        "role": "美由纪",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/bcfab1f49e8dce51f525ad1511c9f784.png"
+      }
+    ],
+    "director": "陈京",
+    "category": "恐怖|惊悚|动作",
+    "synopsis": "诡异的噬魂酒屋！恐怖的死亡民宿！泣血呜咽、阴风阵阵中，千年怨偶铠甲似在午夜还魂，释放古老恶毒的诅咒！同床异梦的情侣，心怀鬼胎的住客，都将被卷入死亡迷局。迷雾氤氲，怪事频频，不断验证着幽灵铠甲掌控生死的传说。一场大火致使千鸟家族家破人亡，冤魂重归与铠甲诡灵签下契约，撕扯着旧日恋人的情感之网，在不断凭空失踪的迷案中，怨偶归来，迷魂夺命！超恐怖日式惊悚电影《怨偶铠甲》层层递进、高能反转、悬念叠生，索命铠甲在月影下移动之际，惊声尖叫连连响起！",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680220800,
+    "timeType": 3,
+    "runtime": 85,
+    "grade": "7.5",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6266,
+    "name": "不能错过的只有你",
+    "poster": "https://pic.maizuo.com/usr/movie/bf0a875fffd739b6c1a68693bab6a964.jpg",
+    "actors": [
+      {
+        "name": "刘流",
+        "role": "二姑父",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/10e0de31b78c05a23f6697a57e91924a.jpg"
+      },
+      {
+        "name": "艾如",
+        "role": "王维迦",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/7a6cb73bf5c1dd14e1e0ce25048e616a.jpg"
+      },
+      {
+        "name": "杨烁",
+        "role": "秦花生",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e96de06f8eb178e83bf8026ad5e516ca.jpg"
+      },
+      {
+        "name": "李萌萌",
+        "role": "林问",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/c501bbe4b278a4d57877ad8e32089507.png"
+      },
+      {
+        "name": "陈晨",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/6ebe222aedeb76bc76a2243a6a6331ff.jpeg"
+      }
+    ],
+    "director": "陈晨",
+    "category": "爱情|剧情",
+    "synopsis": "你最不想错过的人，现在还在你身边吗？北漂失败、爱情受挫的秦花生（杨烁饰）回到了家乡成都，与同样饱受情伤的林问（李萌萌饰）不期而遇，因为相似的经历而逐渐靠近。这一场始料未及的相遇让他们明白，爱总会来的，对的地点，对的时间，对的人。我可以错过很多，但不能错过你。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680307200,
+    "timeType": 3,
+    "runtime": 111,
+    "grade": "7.8",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6197,
+    "name": "深海",
+    "poster": "https://pic.maizuo.com/usr/movie/a3096eb4b17355e4baf21554d682cc05.jpg",
+    "actors": [
+      {
+        "name": "苏鑫",
+        "role": "配音演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/0894ea7a2f937c31e554d2f5d0e29e69.jpg"
+      },
+      {
+        "name": "王亭文",
+        "role": "配音演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/ac66ae8ceea95c8e73a5889b8715eef5.jpg"
+      },
+      {
+        "name": "田晓鹏",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3a0df4d24afe274ca19c6668846ff907.jpg"
+      }
+    ],
+    "director": "田晓鹏",
+    "category": "奇幻|动画",
+    "synopsis": "大年初一，献给走过长夜的你。为心结所困的少女（参宿）误入梦幻深海世界，与来自“深海”的魔法船长南河，在一段奇幻冒险中寻找生命的答案......《大圣归来》导演田晓鹏7年全新力作，春节档必看巅峰视效大片！",
+    "filmType": { "name": "4D", "value": 13 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1674345600,
+    "timeType": 3,
+    "runtime": 112,
+    "grade": "7.6",
+    "item": { "name": "4D", "type": 13 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6261,
+    "name": "逃出白垩纪",
+    "poster": "https://pic.maizuo.com/usr/movie/1113858bdd53461ec313c2cc78ef626e.jpg",
+    "actors": [
+      {
+        "name": "斯科特·贝克",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/4ee55ccc9233b5b27d58e291fc1a157f.jpg"
+      },
+      {
+        "name": "布莱恩·伍兹",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/53586ddc4a9a934709004bd4fb4457d1.jpg"
+      },
+      {
+        "name": "亚当·德赖弗",
+        "role": " Mills",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e713d24de92ce2d41355969c3f4d7de3.jpg"
+      },
+      {
+        "name": "阿丽亚娜·格林布拉特",
+        "role": "Koa",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/f2ee2cf5d94dbb2f68b03059211cdfe6.jpg"
+      },
+      {
+        "name": "克洛伊·科尔曼",
+        "role": "Nevine",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/aec6c6879945e376721cd0fed49ca7c7.jpg"
+      }
+    ],
+    "director": "斯科特·贝克|布莱恩·伍兹",
+    "category": "动作|惊悚",
+    "synopsis": "飞船坠毁在未知的星球上，飞行员米尔斯（亚当·德赖弗 饰）发现自己竟被困在了6500万年前的地球上。此时只有一个获救的机会，他和另一位仅有的幸存者寇娅（阿丽亚娜·格林布拉特 饰）要在这片充满危险史前生物的未知环境中极限求生。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "美国",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680220800,
+    "timeType": 3,
+    "runtime": 93,
+    "grade": "7.9",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6196,
+    "name": "满江红",
+    "poster": "https://pic.maizuo.com/usr/movie/7a61b5f8e702ce6c705a9b51db7a62e7.jpg",
+    "actors": [
+      {
+        "name": "易烊千玺",
+        "role": "孙均",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3fc2e73e5b182083d6b64f46d33cc85a.jpg"
+      },
+      {
+        "name": "张译",
+        "role": "何立",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/ff9aafa8c6033a1277d5ecd65822f8ae.jpg"
+      },
+      {
+        "name": "雷佳音",
+        "role": "秦桧",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/f8bc995baa59dde9b10f81a3dea75bfd.jpg"
+      },
+      {
+        "name": "张艺谋",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/901cd60e86dca068bdfbccb2457a28f6.jpg"
+      },
+      {
+        "name": "沈腾",
+        "role": "张大",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/48263e7ec640a0eb85b8afec2648bcc3.jpg"
+      }
+    ],
+    "director": "张艺谋",
+    "category": "悬疑|喜剧|剧情",
+    "synopsis": "张艺谋集结绝版阵容再战春节档，双男主沈腾、易烊千玺首度同框飙戏，超强班底携手打造春节必看大片《满江红》！南宋绍兴年间，岳飞死后四年，秦桧率兵与金国会谈。会谈前夜，金国使者死在宰相驻地，所携密信也不翼而飞。小兵张大（沈腾 饰）与亲兵营副统领孙均（易烊千玺 饰）机缘巧合被裹挟进这巨大阴谋之中，宰相秦桧（雷佳音 饰）命两人限一个时辰之内找到凶手。伴随危机四伏的深入调查，宰相府总管何立（张译 饰）、副总管武义淳（岳云鹏 饰）、舞姬瑶琴（王佳怡 饰）等人卷入局中，案件的背后似乎隐藏着一场更大的阴谋。局中有局、人心叵测，一夜之间风云变幻，各方势力暗流涌动……",
+    "filmType": { "name": "4D", "value": 13 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1674345600,
+    "timeType": 3,
+    "runtime": 159,
+    "grade": "7.6",
+    "item": { "name": "4D", "type": 13 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6286,
+    "name": "落地生根",
+    "poster": "https://pic.maizuo.com/usr/movie/e32c71dedf4c9864199c80b859e6d867.png",
+    "actors": [
+      {
+        "name": "柴红芳",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/c4333a6b6738c9963f52b53012a1a10d.jpg"
+      },
+      {
+        "name": "邓阿言",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/dbbdfcb4c05f17f433b6fd2628c0863a.jpeg"
+      },
+      {
+        "name": "李建华",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/2295a9c152db4398693f3d828a35554a.jpeg"
+      },
+      {
+        "name": "坡罗",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e0ae30e58de80b3ab797e7db6be8a64e.jpeg"
+      },
+      {
+        "name": "李小二",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/b352bcaac76b4b79f3fb158fe4ebc9f8.jpeg"
+      }
+    ],
+    "director": "柴红芳",
+    "category": "纪录片",
+    "synopsis": "云南怒江傈僳族自治州是中国最贫困的三区三州之一，福贡县匹河怒族乡沙瓦村蜗居在碧罗雪山山腰，囿于交通不便，村民们还沿袭着传统的生产生活方式，人均年收入不足3000元，面临着种种现实困难的村民们的心声就是“想要一条路”。影片以沙瓦村民们的故事为主线，以细雨润无声的表现方式，讲述着这个古老村庄在精准扶贫大背景下“一步跨越千年”的艰苦而伟大的脱贫攻坚历程。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1681948800,
+    "timeType": 3,
+    "runtime": 114,
+    "grade": "7",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6292,
+    "name": "超萌时空宝贝",
+    "poster": "https://pic.maizuo.com/usr/movie/5e45744ef584374b4d73c84b41685fdb.jpg",
+    "actors": [
+      {
+        "name": "李金保",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/474abf3e054bb0f8e64b2beeb7788c14.jpg"
+      },
+      {
+        "name": "张艺文",
+        "role": "配音演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/71c3d763d5b829380c6b1db5705ce242.jpg"
+      },
+      {
+        "name": "吴凡",
+        "role": "配音演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/71f67df8643a1c4422d587e29cf9f167.jpg"
+      },
+      {
+        "name": "孙科",
+        "role": "配音演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/922e05ea137c219dcd71a8e333bcc1bc.jpg"
+      }
+    ],
+    "director": "李金保",
+    "category": "动画",
+    "synopsis": "一天，恶魔城里的大魔王苏醒了，他觉得人类因为文字变得越来越聪明，威胁到了妖族，于是决定把最聪明的一些人抓起来，消除他们的记忆，就这样，人和妖的战争爆发了。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1682726400,
+    "timeType": 3,
+    "runtime": 78,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 1,
+    "cityId": 440100,
+    "filmId": 6276,
+    "name": "大旅行",
+    "poster": "https://pic.maizuo.com/usr/movie/0aac3cd0afe78ea4b9609ce5b3d670a5.jpg",
+    "actors": [
+      {
+        "name": "瓦西里·罗文斯基",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/66a6061954854f49cf448768ca34a902.jpg"
+      },
+      {
+        "name": "德瑞克·贝尔",
+        "role": "Oscar",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/aa6fd46f6c5d14968073b707137f7da1.jpg"
+      },
+      {
+        "name": "保利·肖尔",
+        "role": "Mic-Mic",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/c252affe322b3357582eaa86136c1548.jpg"
+      },
+      {
+        "name": "Katherine Marie",
+        "role": "Mrs. Panda(as Katherine Marie Rommel)",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3311dd32fc99bb8f93a0bffadce098bd.jpg"
+      },
+      {
+        "name": "Stephen Thomas Ochsner",
+        "role": "Pelican Duke",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/8f97bbf20156f67c1651bf546e09cf0f.jpg"
+      }
+    ],
+    "director": "瓦西里·罗文斯基",
+    "category": "动画|冒险|合家欢",
+    "synopsis": "熊猫宝宝被错送到棕熊米米的家门口，好心的米米、邻居兔子奥斯卡、爱讲故事的鹈鹕、“胆小鬼”大灰狼和温柔浪漫的老虎，共同组成了一支又猛又萌的送熊猫回家护卫队。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "俄罗斯",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1680912000,
+    "timeType": 3,
+    "runtime": 84,
+    "grade": "7.8",
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": true,
+    "isSale": false
+  },
+
+  {
+    "type": 2,
+    "cityId": 440100,
+    "filmId": 6311,
+    "name": "银河护卫队3",
+    "poster": "https://pic.maizuo.com/usr/movie/57dfa764e5664645bd616110226c545f.jpg",
+    "actors": [
+      {
+        "name": "詹姆斯·古恩",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/db6860853b274492c16a26724795fc7b.jpg"
+      },
+      {
+        "name": "克里斯·帕拉特",
+        "role": "星爵 / 彼得·奎尔 Peter Quill / Star-Lord",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5521ae12a1ac47954579ec0a330d64e5.jpg"
+      },
+      {
+        "name": "佐伊·索尔达娜",
+        "role": "卡魔拉/Gamora",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/49c7212edfcbec66dd57f03f8b290bcc.jpg"
+      },
+      {
+        "name": "戴夫·巴蒂斯塔",
+        "role": "毁灭者 / 德拉克斯 Drax",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/f2054f5ffb7b2a8b76c9f277503f07bd.jpg"
+      },
+      {
+        "name": "凯伦·吉兰",
+        "role": "星云 Nebula",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3dbd26cafe17ad7d602c3b712c08dd67.jpg"
+      }
+    ],
+    "director": "詹姆斯·古恩",
+    "category": "动作|科幻|冒险",
+    "synopsis": "银河护卫队全员回归，寻觅身世记忆，迎战全新危机，携手踏上最后一次旅程。",
+    "filmType": { "name": "3D", "value": 2 },
+    "nation": "美国",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1683244800,
+    "timeType": 3,
+    "runtime": 150,
+    "item": { "name": "3D", "type": 2 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "type": 2,
+    "cityId": 440100,
+    "filmId": 6305,
+    "name": "余生那些年",
+    "poster": "https://pic.maizuo.com/usr/movie/6ae167ccf3edf10d7307826d9a481c64.jpg",
+    "actors": [
+      {
+        "name": "山田裕贵",
+        "role": "Takeru Tomita",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/ede3fddb13e305c7ccfdfba303c85f9a.jpg"
+      },
+      {
+        "name": "奈绪",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/249595c2f228116d9f9eabe9a65f789b.jpg"
+      },
+      {
+        "name": "藤井道人",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/056aac7e1d6ba6926f0d0ecff374953c.jpg"
+      },
+      {
+        "name": "小松菜奈",
+        "role": "茉莉",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/4ea6403cff1b66c8d52bc1477480355d.jpg"
+      },
+      {
+        "name": "坂口健太郎",
+        "role": "和人",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/22c0e8429bb15f8e614db90ba8671905.jpg"
+      }
+    ],
+    "director": "藤井道人",
+    "category": "剧情|爱情",
+    "synopsis": "一段以10年为期限的生命，一场以10年为倒数的爱情。 20岁的高林茉莉（小松菜奈 饰）因患罕见病被告知仅剩10年寿命，已经注定结局的命运，却因为在同窗会遇到真部和人（坂口健太郎 饰）而产生意外的插曲。爱情的眷恋、亲情的牵念、友情的羁绊……在余下的时光里，茉莉开始重新思索对待自己和世界的方式——如果生命只剩10年， 是否还会去做想做的事，去爱想爱的人？ 电影改编自同名小说，原作者小坂流加和主人公茉莉一样身患绝症，并于2017年2月文库本发行前夕离世。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "日本",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1684540800,
+    "timeType": 3,
+    "runtime": 124,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": false,
+    "isSale": false
+  },
+  {
+    "type": 2,
+    "cityId": 440100,
+    "filmId": 6303,
+    "name": "天空之城",
+    "poster": "https://pic.maizuo.com/usr/movie/9e9d1f1a9a6bedc69c34c3ab2256c61a.jpg",
+    "actors": [
+      {
+        "name": "宫崎骏",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/589bd0777f174e554b866cbc61145422.jpg"
+      },
+      {
+        "name": "田中真弓",
+        "role": "巴鲁",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/4f6aa3e40948c476b5dd27923d966e66.jpg"
+      },
+      {
+        "name": "横泽启子",
+        "role": "希达",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/505ee90effe2d4e3c70eab12881777aa.jpg"
+      },
+      {
+        "name": "初井言荣",
+        "role": "朵拉",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/71f2ee41321a63035a8c38b805b37393.jpg"
+      },
+      {
+        "name": "寺田农",
+        "role": "慕斯卡 Musca",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e9a1b99282da193574a34d02fc8198fc.jpg"
+      }
+    ],
+    "director": "宫崎骏",
+    "category": "动画|奇幻|冒险",
+    "synopsis": "机械师学徒巴鲁意外结识了从天而降的女孩希达，她身世神秘，更手握能够开启天空之城拉普达的飞行石。在军方与海盗双重势力的追击下，巴鲁和希达终于找到传说中的天空之城，也揭开了这个曾拥有先进科技与巨大财富的古老帝国陷入衰败的秘密...",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "日本",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1685577600,
+    "timeType": 3,
+    "runtime": 124,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": false,
+    "isSale": false
+  },
+  {
+    "type": 2,
+    "cityId": 440100,
+    "filmId": 6304,
+    "name": "闪电侠",
+    "poster": "https://pic.maizuo.com/usr/movie/1ccd33b465713265d680c7ba1876364e.jpg",
+    "actors": [
+      {
+        "name": "安德斯·穆斯切蒂",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/070a143741e211f0e8aef9d649925033.jpg"
+      },
+      {
+        "name": "本·阿弗莱克",
+        "role": "Batman / Bruce Wayne",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/1a7535126a423d6a7433161147ba11e8.jpg"
+      },
+      {
+        "name": "埃兹拉·米勒",
+        "role": "闪电侠 Barry Allen",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/38650e794f9d2be2fede5a0ebc24e49c.jpg"
+      },
+      {
+        "name": "迈克尔·基顿",
+        "role": "Batman / Bruce Wayne",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/4e0556507ea524a3d2515841946490e9.jpg"
+      },
+      {
+        "name": "萨莎·卡莱",
+        "role": "Supergirl",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/a451007b95ab1d46e0eb9883c53cba2f.jpg"
+      }
+    ],
+    "director": "安德斯·穆斯切蒂",
+    "category": "动作|科幻|奇幻|冒险",
+    "synopsis": "在电影《闪电侠》的故事中，不同的世界碰撞在了一起。为了改变过去的历史，巴里（埃兹拉·米勒 饰）利用他的超能力回到了过去，而当他试图拯救他的家人时，他却无意间改变了未来。　　结果，巴里被困在一重现实之中。在这个现实内，佐德将军归来了，且对世界发出了毁灭的威胁，然而世上没有任何超级英雄可以求助。因此，巴里不得不请动一位十分迥异的蝙蝠侠，让他结束退隐再度出山，共同前去营救一个被囚禁的氪星人……尽管这氪星人并非是他熟悉的那个。　　最终，为了拯救他所身处的这个世界，并回到他所了解的未来，当下巴里唯一的希望，就是为了自己的命运而奔跑。只是最终，他是否能做出足以重置宇宙的牺牲？",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "美国",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1686873600,
+    "timeType": 3,
+    "runtime": 90,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": false,
+    "isSale": false
+  },
+  {
+    "type": 2,
+    "cityId": 440100,
+    "filmId": 6302,
+    "name": "消失的她",
+    "poster": "https://pic.maizuo.com/usr/movie/149ddb9a7f64e06ed474d963cfc6c405.jpg",
+    "actors": [
+      {
+        "name": "崔睿",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3b039ff4df6bbaf163fb765947e16015.jpg"
+      },
+      {
+        "name": "刘翔",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/36a85530c38eef39922cd756021b330c.jpg"
+      },
+      {
+        "name": "朱一龙",
+        "role": "何非",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5fe913e824da4023670f9840a5f619fc.jpg"
+      },
+      {
+        "name": "倪妮",
+        "role": "陈麦",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/1c9ac0732341fb36367714515858d1e7.jpg"
+      },
+      {
+        "name": "文咏珊",
+        "role": "李木子",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/2dfb8869c064ac74816821d93ac8ab20.jpg"
+      }
+    ],
+    "director": "崔睿|刘翔",
+    "category": "剧情",
+    "synopsis": "何非的妻子李木子在去往东南亚度假岛巴兰迪亚的结婚周年旅行中离奇消失。在何非苦寻无果之时，妻子再次现身，何非却坚持眼前的陌生女人并非妻子。女人拿出了身份证明进行自证，夫妻二人似乎都有不可告人的秘密，随着金牌律师陈麦以及当地警察郑成介入到这起离奇案件中，更多的谜团慢慢浮现……",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1687392000,
+    "timeType": 3,
+    "runtime": 122,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": false,
+    "isSale": false
+  },
+  {
+    "type": 2,
+    "cityId": 440100,
+    "filmId": 6120,
+    "name": "超能一家人",
+    "poster": "https://pic.maizuo.com/usr/movie/0ec798637174c1ba4eac7a2438019230.png",
+    "actors": [
+      {
+        "name": "宋阳",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/00a85985522125516a8f356bf1ca79c7.png"
+      },
+      {
+        "name": "艾伦",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/6dc17d804b91e04b3a64bd4240813440.jpg"
+      },
+      {
+        "name": "沈腾",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/98c43da4b43bcf161d5b9c905253c016.jpg"
+      },
+      {
+        "name": "陶慧",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/7d6f7f8f5c0d9ac8296781234157cece.jpg"
+      },
+      {
+        "name": "张琪",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/94a3fc6ede4d47d034aa4ab8d49bd1e4.jpg"
+      }
+    ],
+    "director": "宋阳",
+    "category": "喜剧|奇幻|动作",
+    "synopsis": "开心麻花首部春节档喜剧电影。主人公郑前（艾伦 饰）离家出走漂泊多年，开发了一款“理财神器”APP，不料却被家乡喀西契克市邪恶狡猾的市长乞乞科夫（沈腾 饰）盯上。而此时郑前一家人竟遇到天降陨石获得了超能力，但只要有人离开，超能力便会消失。郑前被迫和不靠谱的家人团结起来，共同抵抗乞乞科夫，上演一场超能力VS钞能力的爆笑故事……",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1689897600,
+    "timeType": 3,
+    "runtime": 108,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": false,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 2,
+    "filmId": 6311,
+    "name": "银河护卫队3",
+    "poster": "https://pic.maizuo.com/usr/movie/57dfa764e5664645bd616110226c545f.jpg",
+    "actors": [
+      {
+        "name": "詹姆斯·古恩",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/db6860853b274492c16a26724795fc7b.jpg"
+      },
+      {
+        "name": "克里斯·帕拉特",
+        "role": "星爵 / 彼得·奎尔 Peter Quill / Star-Lord",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5521ae12a1ac47954579ec0a330d64e5.jpg"
+      },
+      {
+        "name": "佐伊·索尔达娜",
+        "role": "卡魔拉/Gamora",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/49c7212edfcbec66dd57f03f8b290bcc.jpg"
+      },
+      {
+        "name": "戴夫·巴蒂斯塔",
+        "role": "毁灭者 / 德拉克斯 Drax",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/f2054f5ffb7b2a8b76c9f277503f07bd.jpg"
+      },
+      {
+        "name": "凯伦·吉兰",
+        "role": "星云 Nebula",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3dbd26cafe17ad7d602c3b712c08dd67.jpg"
+      }
+    ],
+    "director": "詹姆斯·古恩",
+    "category": "动作|科幻|冒险",
+    "synopsis": "银河护卫队全员回归，寻觅身世记忆，迎战全新危机，携手踏上最后一次旅程。",
+    "filmType": { "name": "3D", "value": 2 },
+    "nation": "美国",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1683244800,
+    "timeType": 3,
+    "runtime": 150,
+    "item": { "name": "3D", "type": 2 },
+    "isPresale": true,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 2,
+    "filmId": 6305,
+    "name": "余生那些年",
+    "poster": "https://pic.maizuo.com/usr/movie/6ae167ccf3edf10d7307826d9a481c64.jpg",
+    "actors": [
+      {
+        "name": "山田裕贵",
+        "role": "Takeru Tomita",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/ede3fddb13e305c7ccfdfba303c85f9a.jpg"
+      },
+      {
+        "name": "奈绪",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/249595c2f228116d9f9eabe9a65f789b.jpg"
+      },
+      {
+        "name": "藤井道人",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/056aac7e1d6ba6926f0d0ecff374953c.jpg"
+      },
+      {
+        "name": "小松菜奈",
+        "role": "茉莉",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/4ea6403cff1b66c8d52bc1477480355d.jpg"
+      },
+      {
+        "name": "坂口健太郎",
+        "role": "和人",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/22c0e8429bb15f8e614db90ba8671905.jpg"
+      }
+    ],
+    "director": "藤井道人",
+    "category": "剧情|爱情",
+    "synopsis": "一段以10年为期限的生命，一场以10年为倒数的爱情。 20岁的高林茉莉（小松菜奈 饰）因患罕见病被告知仅剩10年寿命，已经注定结局的命运，却因为在同窗会遇到真部和人（坂口健太郎 饰）而产生意外的插曲。爱情的眷恋、亲情的牵念、友情的羁绊……在余下的时光里，茉莉开始重新思索对待自己和世界的方式——如果生命只剩10年， 是否还会去做想做的事，去爱想爱的人？ 电影改编自同名小说，原作者小坂流加和主人公茉莉一样身患绝症，并于2017年2月文库本发行前夕离世。",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "日本",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1684540800,
+    "timeType": 3,
+    "runtime": 124,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": false,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 2,
+    "filmId": 6303,
+    "name": "天空之城",
+    "poster": "https://pic.maizuo.com/usr/movie/9e9d1f1a9a6bedc69c34c3ab2256c61a.jpg",
+    "actors": [
+      {
+        "name": "宫崎骏",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/589bd0777f174e554b866cbc61145422.jpg"
+      },
+      {
+        "name": "田中真弓",
+        "role": "巴鲁",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/4f6aa3e40948c476b5dd27923d966e66.jpg"
+      },
+      {
+        "name": "横泽启子",
+        "role": "希达",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/505ee90effe2d4e3c70eab12881777aa.jpg"
+      },
+      {
+        "name": "初井言荣",
+        "role": "朵拉",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/71f2ee41321a63035a8c38b805b37393.jpg"
+      },
+      {
+        "name": "寺田农",
+        "role": "慕斯卡 Musca",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e9a1b99282da193574a34d02fc8198fc.jpg"
+      }
+    ],
+    "director": "宫崎骏",
+    "category": "动画|奇幻|冒险",
+    "synopsis": "机械师学徒巴鲁意外结识了从天而降的女孩希达，她身世神秘，更手握能够开启天空之城拉普达的飞行石。在军方与海盗双重势力的追击下，巴鲁和希达终于找到传说中的天空之城，也揭开了这个曾拥有先进科技与巨大财富的古老帝国陷入衰败的秘密...",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "日本",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1685577600,
+    "timeType": 3,
+    "runtime": 124,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": false,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 2,
+    "filmId": 6304,
+    "name": "闪电侠",
+    "poster": "https://pic.maizuo.com/usr/movie/1ccd33b465713265d680c7ba1876364e.jpg",
+    "actors": [
+      {
+        "name": "安德斯·穆斯切蒂",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/070a143741e211f0e8aef9d649925033.jpg"
+      },
+      {
+        "name": "本·阿弗莱克",
+        "role": "Batman / Bruce Wayne",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/1a7535126a423d6a7433161147ba11e8.jpg"
+      },
+      {
+        "name": "埃兹拉·米勒",
+        "role": "闪电侠 Barry Allen",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/38650e794f9d2be2fede5a0ebc24e49c.jpg"
+      },
+      {
+        "name": "迈克尔·基顿",
+        "role": "Batman / Bruce Wayne",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/4e0556507ea524a3d2515841946490e9.jpg"
+      },
+      {
+        "name": "萨莎·卡莱",
+        "role": "Supergirl",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/a451007b95ab1d46e0eb9883c53cba2f.jpg"
+      }
+    ],
+    "director": "安德斯·穆斯切蒂",
+    "category": "动作|科幻|奇幻|冒险",
+    "synopsis": "在电影《闪电侠》的故事中，不同的世界碰撞在了一起。为了改变过去的历史，巴里（埃兹拉·米勒 饰）利用他的超能力回到了过去，而当他试图拯救他的家人时，他却无意间改变了未来。　　结果，巴里被困在一重现实之中。在这个现实内，佐德将军归来了，且对世界发出了毁灭的威胁，然而世上没有任何超级英雄可以求助。因此，巴里不得不请动一位十分迥异的蝙蝠侠，让他结束退隐再度出山，共同前去营救一个被囚禁的氪星人……尽管这氪星人并非是他熟悉的那个。　　最终，为了拯救他所身处的这个世界，并回到他所了解的未来，当下巴里唯一的希望，就是为了自己的命运而奔跑。只是最终，他是否能做出足以重置宇宙的牺牲？",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "美国",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1686873600,
+    "timeType": 3,
+    "runtime": 90,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": false,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 2,
+    "filmId": 6302,
+    "name": "消失的她",
+    "poster": "https://pic.maizuo.com/usr/movie/149ddb9a7f64e06ed474d963cfc6c405.jpg",
+    "actors": [
+      {
+        "name": "崔睿",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/3b039ff4df6bbaf163fb765947e16015.jpg"
+      },
+      {
+        "name": "刘翔",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/36a85530c38eef39922cd756021b330c.jpg"
+      },
+      {
+        "name": "朱一龙",
+        "role": "何非",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/5fe913e824da4023670f9840a5f619fc.jpg"
+      },
+      {
+        "name": "倪妮",
+        "role": "陈麦",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/1c9ac0732341fb36367714515858d1e7.jpg"
+      },
+      {
+        "name": "文咏珊",
+        "role": "李木子",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/2dfb8869c064ac74816821d93ac8ab20.jpg"
+      }
+    ],
+    "director": "崔睿|刘翔",
+    "category": "剧情",
+    "synopsis": "何非的妻子李木子在去往东南亚度假岛巴兰迪亚的结婚周年旅行中离奇消失。在何非苦寻无果之时，妻子再次现身，何非却坚持眼前的陌生女人并非妻子。女人拿出了身份证明进行自证，夫妻二人似乎都有不可告人的秘密，随着金牌律师陈麦以及当地警察郑成介入到这起离奇案件中，更多的谜团慢慢浮现……",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1687392000,
+    "timeType": 3,
+    "runtime": 122,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": false,
+    "isSale": false
+  },
+  {
+    "cityId": 110100,
+    "type": 2,
+    "filmId": 6120,
+    "name": "超能一家人",
+    "poster": "https://pic.maizuo.com/usr/movie/0ec798637174c1ba4eac7a2438019230.png",
+    "actors": [
+      {
+        "name": "宋阳",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/00a85985522125516a8f356bf1ca79c7.png"
+      },
+      {
+        "name": "艾伦",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/6dc17d804b91e04b3a64bd4240813440.jpg"
+      },
+      {
+        "name": "沈腾",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/98c43da4b43bcf161d5b9c905253c016.jpg"
+      },
+      {
+        "name": "陶慧",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/7d6f7f8f5c0d9ac8296781234157cece.jpg"
+      },
+      {
+        "name": "张琪",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/94a3fc6ede4d47d034aa4ab8d49bd1e4.jpg"
+      }
+    ],
+    "director": "宋阳",
+    "category": "喜剧|奇幻|动作",
+    "synopsis": "开心麻花首部春节档喜剧电影。主人公郑前（艾伦 饰）离家出走漂泊多年，开发了一款“理财神器”APP，不料却被家乡喀西契克市邪恶狡猾的市长乞乞科夫（沈腾 饰）盯上。而此时郑前一家人竟遇到天降陨石获得了超能力，但只要有人离开，超能力便会消失。郑前被迫和不靠谱的家人团结起来，共同抵抗乞乞科夫，上演一场超能力VS钞能力的爆笑故事……",
+    "filmType": { "name": "2D", "value": 1 },
+    "nation": "中国大陆",
+    "language": "",
+    "videoId": "",
+    "premiereAt": 1689897600,
+    "timeType": 3,
+    "runtime": 108,
+    "item": { "name": "2D", "type": 1 },
+    "isPresale": false,
+    "isSale": false
+  }
+]
