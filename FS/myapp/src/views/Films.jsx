@@ -1,9 +1,12 @@
-import React, { useEffect, useState } from 'react';
+import React, { Suspense, useEffect, useState } from 'react';
 import { Redirect, Switch, Route } from 'react-router-dom';
 import styles from '../css/Films.module.css';
-import NowPlaying from './films/NowPlaying';
-import SoonComing from './films/SoonComing';
+// import NowPlaying from './films/NowPlaying';
+// import SoonComing from './films/SoonComing';
 import TitleCom from '../components/TitleCom/TitleCom';
+
+const NowPlaying = React.lazy(() => import('./films/NowPlaying'));
+const SoonComing = React.lazy(() => import('./films/SoonComing'));
 
 export default function Films(props) {
   const [tabList] = useState(['正在热映', '即将上映']);
@@ -64,11 +67,11 @@ export default function Films(props) {
         </ul>
       </div>
 
-      {/* 嵌套路由，写在父组件内部 */}
-      {/* 什么时候用嵌套路由：一个页面中有一部分组件是需要根据路径显示隐藏的，就需要设计成嵌套路由 */}
       <Switch>
-        <Route path="/films/nowplaying" component={NowPlaying} />
-        <Route path="/films/sooncoming" component={SoonComing} />
+        <Suspense fallback={<div>loading中</div>}>
+          <Route path="/films/nowplaying" component={NowPlaying} />
+          <Route path="/films/sooncoming" component={SoonComing} />
+        </Suspense>
         <Redirect from="/films" to="/films/nowplaying" />
       </Switch>
 
@@ -82,8 +85,3 @@ export default function Films(props) {
     </div>
   );
 }
-
-/**
- * 声明式导航：利用a链接  NavLink 可以自动实现路由与点击激活状态呼应
- * 编程式导航：利用原生js的location.hash    history.push
- */

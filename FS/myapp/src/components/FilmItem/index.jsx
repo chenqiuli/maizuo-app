@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import styles from './index.module.css';
 import { Image, List, ImageViewer } from 'antd-mobile';
 import { useHistory } from 'react-router-dom';
+import LazyLoad from 'react-lazy-load';
 
 export default function FilmItem(props) {
   const { item } = props;
@@ -33,16 +34,18 @@ export default function FilmItem(props) {
       onClick={handleClick}
       prefix={
         <>
-          <Image
-            src={item.poster}
-            lazy
-            width={80}
-            height={100}
-            onClick={(e) => {
-              e.stopPropagation();
-              setVisible(true);
-            }}
-          />
+          <LazyLoad>
+            <Image
+              src={item.poster}
+              lazy
+              width={80}
+              height={100}
+              onClick={(e) => {
+                e.stopPropagation();
+                setVisible(true);
+              }}
+            />
+          </LazyLoad>
           <ImageViewer
             image={item.poster}
             visible={visible}
