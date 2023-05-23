@@ -40,7 +40,7 @@ function Mine(props) {
     // 展示个人信息
     const phone = localStorage.getItem('token');
     const { data } = await axios({
-      url: `http://localhost:9000/api/users?phone=${phone}`,
+      url: `/api/users?phone=${phone}`,
       method: 'GET',
     });
     const info = data?.data[0];

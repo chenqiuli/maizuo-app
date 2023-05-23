@@ -10,7 +10,7 @@ export default function City(props) {
 
   useEffect(() => {
     axios({
-      url: 'http://localhost:9000/api/citys',
+      url: '/api/citys',
     }).then((res) => {
       const {
         status,

@@ -1,3 +1,6 @@
 /CMS/myapp/node_modules
+/CMS/myapp/package-lock.json
 /FS/myapp/node_modules
+/FS/myapp/package-lock.json
 /.history
+/DB/db

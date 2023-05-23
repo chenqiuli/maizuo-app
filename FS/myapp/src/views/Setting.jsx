@@ -12,6 +12,7 @@ function Setting(props) {
       showTabbar();
     };
   }, [hideTabbar, showTabbar]);
+
   return (
     <div className={styles.root}>
       <NavBar

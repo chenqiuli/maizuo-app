@@ -62,15 +62,13 @@ function User(props) {
         'Content-Type': 'multipart/form-data',
       },
     };
-    axios
-      .put(`http://localhost:9000/api/users/${infos._id}`, forms, config)
-      .then((res) => {
-        if (res.data.code === 200) {
-          Dialog.alert({
-            content: '修改信息成功',
-          });
-        }
-      });
+    axios.put(`/api/users/${infos._id}`, forms, config).then((res) => {
+      if (res.data.code === 200) {
+        Dialog.alert({
+          content: '修改信息成功',
+        });
+      }
+    });
   };
 
   // 自定义上传按钮
@@ -119,7 +117,7 @@ function User(props) {
     // 展示个人信息
     const phone = localStorage.getItem('token');
     const { data } = await axios({
-      url: `http://localhost:9000/api/users?phone=${phone}`,
+      url: `/api/users?phone=${phone}`,
       method: 'GET',
     });
     const info = data?.data[0];
