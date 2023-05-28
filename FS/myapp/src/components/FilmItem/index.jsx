@@ -12,7 +12,7 @@ export default function FilmItem(props) {
 
   const handleClick = () => {
     // 动态路由
-    history.push(`/filmdetail/${item.filmId}`);
+    history.push(`/filmdetail/${item._id}`);
     // query传参
     // history.push({
     //   pathname: '/filmdetail',

@@ -5,6 +5,7 @@ import styles from '../css/Films.module.css';
 // import SoonComing from './films/SoonComing';
 import TitleCom from '../components/TitleCom/TitleCom';
 
+// 路由懒加载
 const NowPlaying = React.lazy(() => import('./films/NowPlaying'));
 const SoonComing = React.lazy(() => import('./films/SoonComing'));
 
@@ -43,6 +44,8 @@ export default function Films(props) {
     });
   }, []);
 
+  console.log(active, 'active');
+
   return (
     <div className={styles.films}>
       <div className={fixed ? styles.header_fix : ''}>
@@ -66,14 +69,16 @@ export default function Films(props) {
           ))}
         </ul>
       </div>
-
-      <Switch>
-        <Suspense fallback={<div>loading中</div>}>
+      <Suspense fallback={<div>loading中</div>}>
+        <Switch>
+          {/* <Route path="/films/nowplaying" component={NowPlaying} />
+          <Route path="/films/sooncoming" component={SoonComing} />
+          <Redirect from="/films" to="/films/nowplaying" /> */}
           <Route path="/films/nowplaying" component={NowPlaying} />
           <Route path="/films/sooncoming" component={SoonComing} />
-        </Suspense>
-        <Redirect from="/films" to="/films/nowplaying" />
-      </Switch>
+          <Redirect from="/films" to="/films/nowplaying" />
+        </Switch>
+      </Suspense>
 
       <div
         style={{

@@ -14,6 +14,7 @@ import {
 import { connect } from 'react-redux';
 import dayjs from 'dayjs';
 import axios from 'axios';
+import { imgPrefix } from '../const';
 
 function User(props) {
   const [fileList, setFileList] = useState([]);
@@ -127,7 +128,7 @@ function User(props) {
       gender: info.gender,
       birth: new Date(info.birth),
     });
-    setFileList([{ url: `http://localhost:9000${info.avatar}` }]);
+    setFileList([{ url: `${imgPrefix}${info.avatar}` }]);
   };
 
   useEffect(() => {

@@ -27,7 +27,7 @@ export default function SoonComing() {
   return (
     <>
       <List>
-        {list.map((item) => (
+        {list?.map((item) => (
           <FilmItem key={item.filmId} item={item} />
         ))}
       </List>

@@ -7,6 +7,7 @@ import { LeftOutlined } from '@ant-design/icons';
 import { useHistory } from 'react-router-dom';
 import { connect } from 'react-redux';
 import useScroll from '../hooks/useScroll';
+import { imgPrefix } from '../const';
 
 function FilmDetail(props) {
   const [info, setinfo] = useState({});
@@ -14,26 +15,18 @@ function FilmDetail(props) {
 
   // 动态路由，id会带在url上，刷新页面不会报错
   const id = props.match.params.id;
-  // query传参
-  // const id = props?.location?.query?.id;
-  // state传参
-  // const id = props?.location?.state?.id;
   // console.log(id);
 
   useEffect(() => {
     axios({
-      url: `https://m.maizuo.com/gateway?filmId=${id}&k=6503339`,
-      headers: {
-        'X-Client-Info':
-          '{"a":"3000","ch":"1002","v":"5.2.1","e":"16789325361560653676412929","bc":"440100"}',
-        'X-Host': 'mall.film-ticket.film.info',
-      },
+      url: `/api/films/detail?id=${id}`,
     }).then((res) => {
+      // console.log(res);
       const {
-        data: { data, status },
+        data: { films, code },
       } = res ?? {};
-      if (status === 0) {
-        setinfo(data.film);
+      if (code === 200) {
+        setinfo(films[0]);
       }
     });
   }, [id]);
@@ -108,7 +101,7 @@ function FilmDetail(props) {
             return (
               <li key={index}>
                 <img
-                  src={item}
+                  src={`${imgPrefix}${item}`}
                   alt={index}
                   style={{
                     width: 150,

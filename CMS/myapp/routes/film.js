@@ -16,4 +16,15 @@ router.get('/', async function (req, res, next) {
   });
 });
 
+// 查看详情
+router.get('/detail', async function (req, res, next) {
+  const { id } = req.query;
+  const data = await FilmModel.find({ _id: id });
+  res.send({
+    code: 200,
+    films: data,
+    message: 'success'
+  });
+});
+
 module.exports = router;

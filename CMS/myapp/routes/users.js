@@ -4,7 +4,7 @@ var UserModel = require("../model/UserModel");
 
 // 把上传的图片存放到静态资源文件夹   
 var multer = require('multer');
-const upload = multer({ dest: 'public/images' });
+const upload = multer({ dest: 'public/images/users' });
 
 // 未登录，新增用户信息
 router.post('/', async function (req, res, next) {
@@ -14,7 +14,7 @@ router.post('/', async function (req, res, next) {
     gender: null,
     phone,
     birth: "",
-    avatar: '/images/quesheng.jpg'
+    avatar: '/images/users/quesheng.jpg'
   });
   res.send({ code: 200, message: 'success' });
 });
@@ -27,7 +27,7 @@ router.put('/:id', upload.single('avatar'), async function (req, res, next) {
   // 只允许上传单个图片   
   let avatar;
   if (req.file) {
-    avatar = `/images/${req.file.filename}`;
+    avatar = `/images/users/${req.file.filename}`;
   }
   await UserModel.updateOne({ _id: id }, {
     name,

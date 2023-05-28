@@ -9,6 +9,7 @@ import { RightOutlined } from '@ant-design/icons';
 import { PictureOutline } from 'antd-mobile-icons';
 import { ImageUploader } from 'antd-mobile';
 import axios from 'axios';
+import { imgPrefix } from '../const';
 
 function Mine(props) {
   const [list] = useState([
@@ -45,7 +46,7 @@ function Mine(props) {
     });
     const info = data?.data[0];
     setusername(info.name ?? info.phone);
-    setFileList([{ url: `http://localhost:9000${info.avatar}` }]);
+    setFileList([{ url: `${imgPrefix}${info.avatar}` }]);
   };
 
   useEffect(() => {

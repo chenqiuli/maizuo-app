@@ -8,6 +8,15 @@
   background-color: #fff;
   padding: 0 15px;
   box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+.contain {
+  margin-top: 44px;
 }
 
 .hotCity {
