@@ -3,7 +3,7 @@ var router = express.Router();
 var CinemaModel = require("../model/CinemaModel");
 
 
-// 分页查询电影列表
+// 查询影院列表
 router.get('/', async function (req, res, next) {
   const { cityId } = req.query;
   const data = await CinemaModel.find({ cityId });

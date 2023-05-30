@@ -114,7 +114,7 @@ function FilmDetail(props) {
           })}
         </MBetterScroll>
       </div>
-      <div className={styles.footerBtn}>选座购票</div>
+      {/* <div className={styles.footerBtn}>选座购票</div> */}
     </div>
   );
 }

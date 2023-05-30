@@ -44,8 +44,6 @@ export default function Films(props) {
     });
   }, []);
 
-  console.log(active, 'active');
-
   return (
     <div className={styles.films}>
       <div className={fixed ? styles.header_fix : ''}>

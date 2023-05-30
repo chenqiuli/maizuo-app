@@ -13,20 +13,6 @@ export default function FilmItem(props) {
   const handleClick = () => {
     // 动态路由
     history.push(`/filmdetail/${item._id}`);
-    // query传参
-    // history.push({
-    //   pathname: '/filmdetail',
-    //   query: {
-    //     id: item.filmId,
-    //   },
-    // });
-    // state传参
-    // history.push({
-    //   pathname: '/filmdetail',
-    //   state: {
-    //     id: item.filmId,
-    //   },
-    // });
   };
 
   return (
@@ -71,7 +57,7 @@ export default function FilmItem(props) {
         </>
       }
       arrow={false}
-      extra={item.isPresale && <div className={styles.buy}>购票</div>}
+      // extra={item.isPresale && <div className={styles.buy}>购票</div>}
     >
       <div className={styles.name}>{item.name}</div>
     </List.Item>

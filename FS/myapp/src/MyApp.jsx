@@ -31,7 +31,7 @@ function MyApp(props) {
  */
 
 const mapStateToProps = (state) => {
-  console.log(state, 'reducer的state');
+  // console.log(state, 'reducer的state');
   return {
     a: 1,
     b: 2,

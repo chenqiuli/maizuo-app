@@ -49,7 +49,8 @@ import LazyLoad from 'react-lazy-load';
 - 1.把数据导入 MongoDB Compass 软件：若是数组对象格式，添加`--jsonArray`;若是对象格式，不需要。
 
 ```bash
-mongoimport --host localhost --port 27017 --db gyk_mongodb --collection films --file "F:\gky\gky-mongodb\大作业\DB\dbdata\film.json" --jsonArray
+mongoimport --host localhost --port 27017 --db gyk_mongodb --collection citys --file "F:\gky\gky-mongodb\大作业\DB\dbdata\city.json" --jsonArray
+mongoimport --host localhost --port 27017 --db gyk_mongodb --collection users --file "F:\gky\gky-mongodb\大作业\DB\dbdata\user.json"
 ```
 
 - 2.运行服务器：进入 CMS/myapp
